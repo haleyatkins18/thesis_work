@@ -1,0 +1,2474 @@
+LOCUS       109_assemble_contig_1        19337 bp    dna     linear   UNK 
+DEFINITION  Escherichia phage pro147 109_pro147
+ACCESSION   109_assemble_contig_1
+KEYWORDS    .
+SOURCE      Escherichia phage pro147
+  ORGANISM  Escherichia phage pro147
+            Viruses; Duplodnaviria; Heunggongvirae; Uroviricota;
+            Caudoviricetes; Peduoviridae; Peduovirus; Peduovirus pro147.
+FEATURES             Location/Qualifiers
+     source          1..19337
+                     /db_xref="taxon:1649239"
+                     /mol_type="genomic DNA"
+                     /note="1649239.15"
+                     /organism="Escherichia phage pro147 109_pro147"
+     fasta_record    1..19337
+                     /label=109_assemble_contig_1
+                     /note="109_assemble_contig_1"
+                     /db_xref="taxon:1649239"
+     CDS             complement(1..567)
+                     /product="Phage tail fiber protein GpH"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.1"
+                     /translation="MSTKFKTVITTAGAAKLAAATAPGGRKVNITTMAVGDGGGKLPV
+                     PDAGQTGLIHEVWRHALNKISQDKRNSNYIIAELVIPPEVGGFWMRELGLYDDAGTLI
+                     AVANMAESYKPALAEGSGRSQTCRMVIIVSSVASVALTIDTTTVMATQDYVDDKIAEH
+                     EQSRRHPDASLTAKGFTQLSSATNSTSET"
+     CDS             complement(578..1108)
+                     /product="Phage tail formation protein GpI"
+                     /db_xref="RAST2:fig|1649239.15.peg.2"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /translation="MSDSRLLPTGSSPLEVAAAKACAEIEKTPVSIRELWNPDTCPAN
+                     LLPWLAWAFSVDRWDEKWPEATKRAVIRDAHFIHCHKGTIGAIRRVVEPLGYLINVTE
+                     WWENSDPPGTFRLDIGVLESGITEAMYQEMERLIADAKPASRHLIGLNITRDIPGYLF
+                     AGGVAYDGDVITVYPG"
+     CDS             complement(1101..2009)
+                     /translation="MPIIDLNQLPAPDVVEELDFESILAERKATLISLYPEDQQEAVA
+                     RTLTLESEPLVKLLEENAYRELIWRQRVNEAARAVMLACAAGNDLDVIGANYNTTRLT
+                     ITPADDSTIPPTPAVMESDTDYRLRIQQAFEGLSVAGSVGAYQYHGRSADGRVADISV
+                     TSPSPACVTISVLSRENNGVASEDLLAVVRNALNGEDVRPVADRVTVQSAAIVEYQIN
+                     ATLYLYPGPESEPIRAAAVKKLEAYITAQHRLGRDIRLSAIYAALHVEGVQRVELAAP
+                     LADIVLNSTQASFCTEYRVVTGGSDE"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.3"
+                     /product="Phage baseplate assembly protein GpJ"
+     CDS             complement(2014..2361)
+                     /translation="MTARYLGMNRSDGLTVTDLEHISQSIGDILRTPVGSRVMRRDYG
+                     SLLASMIDQPQTPALELQIKVACYMAVLKWEPRVTLSSVTTERSFDGRMTVTLTGQHN
+                     DTGQPLSLTIPVS"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.4"
+                     /product="Phage baseplate assembly protein GpW"
+     CDS             complement(2358..2993)
+                     /db_xref="RAST2:fig|1649239.15.peg.5"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /product="Phage baseplate assembly protein GpV"
+                     /translation="MNTLANIQELARALRNMIRTGIIVETDLNAGRCRVQTGGMCTDW
+                     LQWLTHRAGRSRTWWAPSVGEQVLILAVGGELDTAFVLPGIYSGDNPAPSASADALHI
+                     RFPDGAVIEYEPETSALTVSGIKTASVTASDSVTATVPVVMVKASTRITLDTPEVVCT
+                     NRLITGTLEVQKGGTMRGNIEHTGGELSSNGKVLHTHKHPGDSGGTTGSPL"
+     CDS             complement(3060..3512)
+                     /product="Phage tail completion protein GpS"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.6"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /translation="MNEFKRFEDRLTGLIESLSPSGRRRLSAELAKRLRQSQQRRVMA
+                     QKAPDGTPYAPRQQQSARKKTGRVKRKMFAKLITSRFLHIRASPEQASMEFYGGKSPK
+                     IASVHQFGLSEETRKDGKKIDYPARPLLGFTGEDVQMIEEIILAHLDR"
+     CDS             complement(3505..3972)
+                     /translation="MLKPDSLRRALTDAVTVLKTNPDMLRIFVDNGSIASTLATSLSF
+                     EKRYTLNVIVTDFTGDFDLLIVPVLAWLRENQPDIMTTDEGQKKGFTFYADINNDSSF
+                     DISISLMLTERTLVSEVDGALHVKNIPEPPPPEPVTRPMELYINGELVSKWDE"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.7"
+                     /product="Phage tail completion protein GpR"
+     CDS             complement(3935..4093)
+                     /translation="MPGIDPETNGDLSADIRQLENALARCASQVKMIKHCQDENDAQT
+                     RQPAQGAD"
+                     /product="Phage lysis regulatory protein, LysC"
+                     /db_xref="RAST2:fig|1649239.15.peg.8"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+     CDS             complement(4080..4505)
+                     /translation="MSRLMIVLVVLLSLAVAGLFLAKHKNASLRASLDRANSVASGQQ
+                     TTITMLKNQLHVALTRADKNELAQVALRQELENAAKREAQREKTITRLLNENEDFRRW
+                     YGADLPDAVRRLHQRPACADASDCPQRLPESESLPDAGH"
+                     /db_xref="RAST2:fig|1649239.15.peg.9"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /product="Phage lysis regulatory protein, LysB"
+     CDS             complement(4493..4918)
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.10"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /product="Phage lysis regulatory protein, LysA"
+                     /translation="MKKLSLSLMLNVSLALMLALSLIYPQSVAVSFVAAWAILATVIC
+                     VVAGGVGVYATEYVLERYGRELPPESLAVKIVTSLFLQPVPWRRRAVALVVMVATFIS
+                     LVAAGWIFTALIYLVASVFFRLICTACRQRFEGREPCQG"
+     CDS             complement(4933..5430)
+                     /EC_number="3.2.1.17"
+                     /product="Phage lysozyme R (EC 3.2.1.17)"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.11"
+                     /translation="MPVINTHQNIAAFLDMLAVSEGTANHPLTKNRGYDVIVTGLDGK
+                     PEIFTDYSDHPFAHGRPAKVFNRRGEKSTASGRYQQLYLFWPHYRKQLALPDFSPLSQ
+                     DRLAIQLIRERGALEDIRAGRIERAISRCRNIWASLPGAGYGQREHSLEKLVTVWRTA
+                     GGVPA"
+     CDS             complement(5430..5711)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.12"
+                     /product="Phage holin"
+                     /translation="MTAEEKSVLSLFMIGVLIVVGKVLAGGETITPRLFIGRMLLGGF
+                     VSMVAGVVLVQFPDLSLPAVCGIGSMLGIAGYQVIEIAIQRRFKGRGKP"
+     CDS             complement(5715..5918)
+                     /translation="MKTFALQGDTLDAICVRYYGRTEGVVETVLAANPGLAELGAMLP
+                     HGTAVELPDVQTAPVAETVNLWE"
+                     /product="Phage tail protein GpX"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /db_xref="RAST2:fig|1649239.15.peg.13"
+                     /transl_table=11
+     CDS             complement(5918..6427)
+                     /product="Phage head completion-stabilization protein
+                     GpL"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /db_xref="RAST2:fig|1649239.15.peg.14"
+                     /transl_table=11
+                     /translation="MMTLIIPRKEAPVSGEGTVVIPQPAGDEPVIKNTFFFPDIDPKR
+                     VRERMRLEQTVAPARLREAIKSGMAETNAELYEYREQKIAAGFTRLADVPADDIDGES
+                     IKVFYYERAVCAMATASLYERYRGVDASAKGNKKADSIDSTIDELWRDMRWAVARIQD
+                     KPRCIVSQI"
+     CDS             complement(6527..7270)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.15"
+                     /product="Phage terminase, endonuclease subunit GpM"
+                     /translation="MTSPAQRHMMRVSAAMTAQRDAAPLRHATVYEQMLVKLAADQRT
+                     LKAIYSKELKAAKKRELLPFWLPWVNGVLEQGKGAQDDILMTVMLWRLDTGDIAGALE
+                     IARYALKYGLTMPGKHRRTPPYMFTEEVALAAMRAHAAGESVDTRLLTDTLELTATAD
+                     MPDEVRAKLHKITGLFLRDAGDAAGALAHLQRATQLDCQAGVKKEIERLERELKPKPE
+                     PQPKAATRAPRKTRSVTPAKRGRPKKKAS"
+     CDS             complement(7274..8347)
+                     /product="Phage major capsid protein GpN"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /db_xref="RAST2:fig|1649239.15.peg.16"
+                     /transl_table=11
+                     /translation="MRQETRFKFNAYLSRVAELNGIDAGDVSKKFTVEPSVTQTLMNT
+                     MQESSDFLTRINIVPVSEMKGEKIGIGVTGSIASTTDTAGGTERQPKDFSKLASNKYE
+                     CDQINFDFYIRYKTLDLWARYQDFQLRVRNAIIKRQSLDLIMAGFNGVRRAETSDRSS
+                     NPMLQDVAVGWLQKYRNEAPARVMSKVTDEEGHTTSEVIRVGKGGDYASLDALVMDAT
+                     NNLIEPWYQEDPDLVVIVGRQLLADKYFPIVNKEQDNSEMLAADVIISQKRIGNLPAV
+                     RVPYFPADAMLITKLENLSIYYMDDSHRRVIEENPKLDRVENYESMNIDYVVEDYAAG
+                     CLVEKIKVGDFSTPAKATAEPGA"
+     CDS             complement(8406..9326)
+                     /db_xref="RAST2:fig|1649239.15.peg.17"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /product="Phage capsid scaffolding protein GpO"
+                     /translation="MRIVGKLMPTCDSSNHYSGLLTMAKKVSKFFRIGVEGDTCDGRV
+                     ISAQDIQEMAETFDPRVYGCRINLEHLRGILPDGIFKRYGDVVELKAEKIDDDSALKG
+                     KWALFAKITPTDDLIAMNKAAQKVYTSMEIQPNFANTGKCYLVGLAVTDDPASLGTEY
+                     LEFCRTAKHNPLNRFKLSPENLISVATPVELEFEDLPETVFTALTEKVKSIFGRKQAS
+                     DDARLNDVHEAVTAVAEHVQEKLSATEQRLAEMETAFSALKQEVTDRADETSQAFTRL
+                     KNSLDSTESLTQQRRSKATGGSGDALMTNC"
+     CDS             9434..11206
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.18"
+                     /product="Phage terminase, ATPase subunit GpP"
+                     /translation="MTITTDTTLLHDPRRQAALLYWQGFSVPQIAAMLQMKRPTVQSW
+                     KQRDGWDSVAPISRVEMSLEARLTQLIIKPQKTGGDFKEIDLLGRQIERLARVNRYSQ
+                     TGNEADLNPNVANRNKGGRRKPKKNFFSDEAIEKLEQIFFEQSFEYQLHWYRAGLEHR
+                     IRDILKSRQIGATFYFSREALLRALKTGHNQIFLSASKTQAYVFREYIIAFARLVDVD
+                     LTGDPIVLGNNGAKLIFLGTNSNTAQSHNGDLYVDEIFWIPNFQVLRKVASGMASQSH
+                     LRSTYFSTPSTLAHDAYPFWSGELFNRGRASAAERVEIDVSHNALAGGLLCADGQWRQ
+                     IVTIEDALKGGCTLFDIEQLKRENSADDFKNLFMCEFVDDKASVFPFEELQRCMVDTL
+                     EEWEDYAPFAANPFGSRPVWIGYDPSHRGDSAGCVVLAPPVVAGGKFRILERHQWKGM
+                     DFATQAESIRKLTEKYNVEYIGIDATGLGVGVFQLVRSFYPAARDIRYTPEMKTAMVL
+                     KAKDVIRRGCLEYDVSATDITSSFMAIRKTMTSSGRSATYEASRSEEASHADLAWATM
+                     HALLNEPLTAGISTPLTSTILEFY"
+     CDS             11206..12225
+                     /product="Phage portal vertex protein GpQ"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.19"
+                     /translation="MSKKKGKTPRPAAKTITASAPKMEAFTFGEPVPVLDRRDILDYV
+                     ECISNGRWYEPPVSFTGLAKSLRAAVHHSSPIYVKRNILASTFIPHPWLSQQDFSRFV
+                     LDFLVFGNAFLEKRYSTTGKVIRLETSPAKYTRRGVEEDVYWWVPSFNEPTAFAPGSV
+                     FHLLEPDINQELYGLPEYLSALNSAWLNESATLFRRKYYENGAHAGYIMYVTDAVQDR
+                     NDIEMLRENMVKSKGRNNFKNLFLYAPQGKADGIKIIPLSEVATKDDFFNIKKASAED
+                     LMSAHRVPPQMIGMMPNNTGGFGDVTKAAQVFVRNELTFLQERCKEINCWVGEDVFRF
+                     RTYSL"
+     CDS             complement(12220..12309)
+                     /translation="MHLHACRVIFYTIFVLVLILLCVCFGDGS"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.20"
+                     /transl_table=11
+                     /product="hypothetical protein"
+     CDS             complement(12329..12766)
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.21"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation="MCKNCKGKTKNKIIVLSDKGTSTQLSVTNDNELEVEHKLIDGCA
+                     IVVGERCDHYLKIYNNQDVSHLFVELKGSDVEKAVKQIVTTLKSGVINVGAKEKKHGA
+                     IVSTRNPLNSTETNRLKKKILLSDGVNLHFYKMKAQQKITSFT"
+     CDS             complement(12775..14076)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /db_xref="RAST2:fig|1649239.15.peg.22"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MENIKIDKFLTIQKVDIPLKKVNIFIGPQAQGKSVIAKLIKYFK
+                     DYPMDILRASTEGKTKRDILKEQKNKFSKIFPQQYWADDEFFIEYSNKHYWVRITNRK
+                     NSKGSLKIALSENLTKTIAKLRLIVRKDLDENIENSLAESVTRRRKRGIEHELRVCLS
+                     LGLFSEPETKLESVFYIPAGRSFFANLQKNVFSFLSSSIEIDYFLTEFGSLYEQTKKL
+                     FNQDYMIRMLRGAVPQHVNKLVEELICGKYITEKGEDFIRHAAKKTNLNNSSSGQQEA
+                     LPMALMLSSWPYLQSMTSKSFIIEEPEAHLFPSAQAKVVSLIASAYNQAESYCSYTIT
+                     THSPYILSAFNNLIQAGNALKCIKGKNNTDIERLYKLVPESQIIDFDDVTAYMVNAGK
+                     VTEILDSELNILDANEIDRISSIFSETFDALIDIEYSATVN"
+     CDS             14092..14226
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.23"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation="MFLSVNTFLSYVQKHKYSTIILRSSVYLTRGAFPASPARFMWRF
+                     "
+     CDS             14226..14444
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.24"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation="MQLHRYYGSAPALTASSGNGHPRRMQKHSLVACTAYLMTNQLKR
+                     HRSSHKKRNTMILVIFMTFLIAYLSPPH"
+     CDS             14530..14775
+                     /translation="MSYIKKSSNILDAKPVLHNIKCNQKQRHTICCVVQALCSVICQI
+                     TLRLNRALFQGKTSLNINSALEAHISAEIALCLQEEI"
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.25"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             14772..14885
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.26"
+                     /transl_table=11
+                     /translation="MKKCYYCILVLALFGYPYGSPSGLSVNVSNIHVSIIL"
+     CDS             15028..15168
+                     /translation="MLFYDSNQIAALNYMLAIQYNLAFYFSMLLLLICLRGASHNPFK
+                     GI"
+                     /db_xref="RAST2:fig|1649239.15.peg.27"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(15188..17464)
+                     /translation="MTVKASGHFVPPSVFAAGTGETFTGAYAWNAPREAVGRERPLTR
+                     DEMRQVQGVLSTINRLPYFLRSLFTSRYDYIRRNKSPVHGFYFLTSTFQRRLWPRIER
+                     VNQRHEMNTDASLLFLAERDHYARLPGMNDKELKKFAARISSQLFMMYEELSDAWVDA
+                     HGEKESLFTDEAQAHLYGHVAGAARAFNISPLYWKKYRKGQMTTRQAYSAIARLFNDE
+                     WWTHQLKGQRMRWHEALLIAVGEVNKDRSPYASKHAIRDVRARRQANLEFLKSCDLEN
+                     RETGERIDLISKVMGSISNPEIRRMELMNTIAGIERYAAAEGDVGMFITLTAPSKYHP
+                     TRQVGKGESKAVQLNHGWNDEAFNPKDAQRYLCRIWSLMRTAFKDNDLQVYGLRVVEP
+                     HHDGTPHWHMMLFCNPRQRNQIIEIMRRYALKEDGDERGAARNRFQAKHLNRGGAAGY
+                     IAKYISKNIDGYALDGQLDNDTGRPLKDTAAAVTAWASTWRIPQFKTVGLPTMGAYRE
+                     LRKLPRGVSIADEFDERVEAARAAADSGDFALYISAQGGANVPRDCQTVRVARSPSDD
+                     VNEYEEEVERVVGIYAPHLGARHIHITRTTDWRIVPKVPVVEPLTLKSGIAAPRSPVN
+                     NCGKLTGGDTSLPAPTPSEHAAAVLNLVDDGVIEWNDTEVVRALRGALKHDLRTPNRQ
+                     QRNGSPLKPHEIAPSARLTRSERMQITRIRVDLAQNGIRPQRWELEALARGATVNYYG
+                     KSFNYQVADEWPGFLLPI"
+                     /product="Phage replication protein GpA, endonuclease"
+                     /db_xref="RAST2:fig|1649239.15.peg.28"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+     CDS             complement(17454..17729)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /db_xref="RAST2:fig|1649239.15.peg.29"
+                     /transl_table=11
+                     /product="Phage Orf83 protein"
+                     /translation="MSIRIEIGERYVVTSDSFQFILHEKKRAESGKNAGQEWLSVVGY
+                     YPKLSQLVSGLMHHDILTGSAKSFADLNAQVEQLSKRCSEAFGSYDR"
+     CDS             complement(17726..17950)
+                     /translation="MPDNVDFIQEQQAELLERQINAARVKHCGVSSLVCEECDAPIPA
+                     ARRAAYPSATRCVSCQSVFEAKNKHYRRTA"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /db_xref="RAST2:fig|1649239.15.peg.30"
+                     /transl_table=11
+                     /product="Phage TraR/YbiI family protein"
+     CDS             complement(17950..18252)
+                     /translation="MSCSHSVVLLNNALKIAVMKNGDLSLIQLGLDKEKREITESVIA
+                     IYQNELNLLSDVVNLLVKRAVFHKQISSVDELTKLTTEIASYCADEFKKLNDKRNW"
+                     /product="Phage Orf81 protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.31"
+     CDS             complement(18252..18476)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.32"
+                     /product="Phage Orf80 protein"
+                     /translation="MHTVSENQCGIYALLLQQARTEAQADAATRFSSHLDAMIRHITK
+                     AELSRVEIVELLSQESEKFHNIGLSRGKVL"
+     CDS             complement(18540..19040)
+                     /translation="MTVMTLNLVEKQPAAMRRIIGKHLAVPRWQETCDYYNQMMERER
+                     LTVCFHAQLKQRHATMRFEEMNDVERERLVCAIDELRGAFSKRRQVGASEYAYISFLT
+                     VSQRRTLFMHARLTEKEFNQPYWRINEESCYWRDALFRALRELFSLFEYAPTILTSVK
+                     PEQYLH"
+                     /product="Phage replication protein GpB"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.33"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+     CDS             complement(19037..19207)
+                     /product="Phage Orf78 protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.34"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /translation="MNEPRCIAQLLRNESPRAIDFTITHGKGRKGIIIRTKKQSPLKK
+                     ALTFLKSRRVWK"
+     CDS             complement(19218..19337)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.35"
+                     /product="Phage Cox (control of excision) protein"
+                     /translation="GEYWVYLPAWNNGLKLAYESRPKEIRDGWLMWLGLGEPR"
+ORIGIN      
+        1 tgtttcagac gtgctgttgg tcgcactgct taactgagta aaacctttgg cggtcagcga
+       61 ggcgtccggg tgacgtcgtg actgttcatg ttctgcaatt ttgtcatcaa cgtaatcctg
+      121 cgttgccatc accgttgtgg tgtcaatggt cagcgccact gaggccacac tgctgacgat
+      181 gatgaccatg cggcaggtct gcgaacgccc tgagccttcg gcaagagctg gcttataact
+      241 ttcagccatg ttcgccacgg caattaacgt tccagcatca tcgtacaggc caagctcacg
+      301 catccagaaa ccgcccacct ccggcggaat aaccagctct gcgataatat aattactgtt
+      361 tcgtttgtcc tggctgattt tgttcagcgc atgtcgccag acttcgtgga taagcccggt
+      421 ctgtccggca tccgggacag gcaatttacc accgccatcc ccgacggcca tcgtggtaat
+      481 gttgaccttc cgccctcccg gcgcggttgc cgctgccagc tttgctgcac cggcagtggt
+      541 gataacggtt ttgaattttg tgctcattat tcctcactta tccggggtaa accgtaatta
+      601 catcgccgtc gtaagccaca ccaccggcga acaggtatcc gggaatgtcc cgggtaatgt
+      661 tcaggccaat aaggtggcgg cttgcaggtt tggcatcagc aatcagccgt tccatttcct
+      721 gatacattgc ctctgtgatg ccgctttcca gtacaccaat atcaagccgg aaggtgccgg
+      781 gcgggtcact gttttcccac cactccgtca cgttgatgag atagccgagc ggctccacca
+      841 cacgccggat tgcacctata gtgcccttat gacagtggat gaaatgggca tcgcggataa
+      901 cggcgcgttt tgtcgcttcc ggccactttt catcccacct gtcgaccgaa aacgcccacg
+      961 ccagccacgg cagcagattt gccggacagg tgtccgggtt ccacagctca cgaatactga
+     1021 ccggcgtttt ttcaatttcc gcacaggctt ttgcggcggc gacctcaagc ggtgatgagc
+     1081 cggtcggcag cagtcgcgaa tcactcatcc gagcctccgg tcacgacgcg gtattcggta
+     1141 cagaaagacg cctgcgtact gttgagcacg atgtcggcca gtggtgcagc cagttcgaca
+     1201 cgctgcacac cttccacatg caaagcggca taaatggcag acagacggat gtcgcgcccc
+     1261 agccggtgct gtgccgtgat atacgcttcc agctttttca cagcggcagc gcggatgggt
+     1321 tcgctttcgg gaccagggta aagatacagc gtggcgttta tctggtattc aacaatggcg
+     1381 gcagactgca cggtcacacg gtcagccacc ggcctgacgt cctcgccatt aagggcgtta
+     1441 cgcaccacag ccagcaggtc ttcggatgcc acaccgttat tttcacgtga cagcacagag
+     1501 atggtgacac aggcaggaga cggactggtg acagaaatat ccgcgacacg cccgtcagca
+     1561 ctgcgaccat gatactgata ggctcccact gacccggcga cgcttaagcc ctcaaaagcc
+     1621 tgctgaatac gcagacgata atcggtgtca gattccatca ctgccggtgt cggcggaatg
+     1681 gtcgaatcat ctgccggggt gatagtcagg cgcgtggtgt tgtaattggc accaatcaca
+     1741 tcaaggtcat taccggcggc acaggccagc atcaccgccc gtgcggcctc attcacacgc
+     1801 tgacgccaga taagctcacg ataagcattt tcttccagca gtttgacgag aggctcagat
+     1861 tccagtgtca gggtacgggc gaccgcctcc tgctgatctt ccgggtaaag ggaaatcagt
+     1921 gtcgccttgc gttcagcgag aatgctttca aagtccagct cctcgaccac atccggtgcg
+     1981 ggtagctggt tcaggtcgat aatcggcatg gtttcaactc acagggatgg ttaacgaaag
+     2041 tggctggccg gtgtcgttgt gctggccggt taacgtgacc gtcattcgcc cgtcaaaact
+     2101 gcgctcagtg gtgacggatg acagggtgac gcggggttcc catttcagca ccgccatgta
+     2161 acaggcgacc ttaatctgca actcaagcgc cggggtctgc ggctggtcaa tcattgacgc
+     2221 cagcaacgag ccgtaatcac gacgcatcac tcgtgagccg accggtgtgc gcaggatatc
+     2281 gccgatactc tggctgatat gctcaaggtc agtgaccgtc aggccatcac tgcgattcat
+     2341 tccgagataa cgtgctgtca tagaggactc ccggttgtgc cgccgctgtc gccggggtgt
+     2401 ttatgggtat gcagtacctt accgtttgat gagagttcac cgccggtgtg ttcaatgttg
+     2461 ccgcgcatcg tcccgccctt ctgtacttcc agcgtgccgg taatcagcct gttggtgcag
+     2521 accacctccg gtgtgtccag agtgatgcgg gttgacgctt tcaccatgac caccggcacc
+     2581 gtggcagtaa cagaatcaga agccgtcacg ctggccgttt taattccgct taccgtgagt
+     2641 gcactggttt cgggttcata ttcaatcacc gccccgtcag ggaaacggat atgcagggca
+     2701 tccgccgacg cagacggcgc ggggttatcg ccggaataaa tccccggcag aacgaacgcc
+     2761 gtgtcgagtt caccgcccac ggccagaatc agcacctgtt cccccacgga aggtgcccac
+     2821 catgtgcgcg aacgtcctgc gcgatgggtc agccactgaa gccagtcggt gcacatgccg
+     2881 ccggtctgca cacggcagcg accggcgtta aggtcggttt cgacgataat gccggtgcgg
+     2941 atcatgttgc gcagtgcgcg cgcgagttcc tgaatatttg cgagagtgtt cataacggga
+     3001 aggatgccgc cgggtcatac cggcggcaat gtgacgatga ggtgtcggga atggcacaac
+     3061 taacggtcga ggtgagccag aataatctct tcaatcatct gcacatcctc accggtaaag
+     3121 ccgagcagag gacgcgccgg ataatcaatt ttcttaccgt ctttccgggt ttcttccgac
+     3181 agaccaaact gatgcacgct ggcgattttc ggtgacttcc cgccgtaaaa ttccattgat
+     3241 gcctgttccg ggctggcgcg gatatgcaaa aaacgactgg tgataagttt cgcaaacatt
+     3301 tttcgcttaa cacgaccggt cttttttctg gcgctctgct gctggcgtgg cgcatagggt
+     3361 gtgccgtccg gggctttctg tgccatcacc cggcgctgct gactctgccg cagacgtttc
+     3421 gccagttctg cactcagtcg ccgacgccct gacggtgaca gcgactcaat cagtccggtc
+     3481 agccggtctt caaaacgctt aaactcattc atcccacttg ctcaccagtt cgccattgat
+     3541 ataaagctcc atcgggcggg tgaccggctc cggcggcggg ggttccggga tattcttcac
+     3601 atgcagcgcg ccgtccacct cactgaccag cgtgcgctcg gtcagcatca ggctgatact
+     3661 gatatcaaag ctgctgtcat tgttgatgtc tgcataaaac gtgaagccct ttttctggcc
+     3721 ttcgtcggta gtcatgatgt cgggctgatt ttcccgcagc cacgccagca ccggcacgat
+     3781 gagcaggtca aaatcaccgg taaagtcggt cacaatgaca ttgagcgtgt aacgcttttc
+     3841 gaatgacagc gacgtcgcca gtgtggaggc aatactcccg ttatccacga atatccgcag
+     3901 catatcgggg ttagttttca gcaccgtgac ggcatcagtc agcgccctgc gcaggctgtc
+     3961 gggtttgagc atcgttttcg tcctgacagt gtttaatcat ttttacctgg ctggcacagc
+     4021 gtgccagcgc gttctcaagc tgccggatat cggcacttaa atcaccgttc gtctccgggt
+     4081 caatgcccgg catcgggcaa agactcactt tcgggcaggc gttgtggaca atcactggcg
+     4141 tcggcgcagg ccgggcgctg gtgcaaccgg cgcacagcat caggcaggtc agcaccgtac
+     4201 cagcggcgaa aatcctcgtt ttcattaagt aacctcgtga tggttttctc gcgctgtgct
+     4261 tcacgcttcg cggcgttctc cagttcctga cgcagtgcca cctgcgccag ctcgtttttg
+     4321 tctgccctgg tgagcgcaac atgaagctga tttttcagca tggtgatggt cgtctgctgc
+     4381 ccgctggcga cgctgttcgc cctgtccagt gaggcgcgca ggctggcgtt tttatgcttc
+     4441 gccagaaaca gacccgccac cgccagcgat aacaacacga ccagcacaat catcagcctt
+     4501 gacatggttc ccgcccctca aaacgctgac ggcaggccgt acatatcagc cggaagaaca
+     4561 ccgatgccac gagataaatc agcgcggtaa aaatccaccc ggcagcgacc agcgagataa
+     4621 atgtcgccac catcaccacc agagctactg cccgtctgcg ccacggcacc ggctgcaaaa
+     4681 acagcgacgt gacaatcttc acggccagcg attccggcgg cagctcccgt ccgtagcgtt
+     4741 ccagtacata ctcagtggca tacacgccga caccaccggc aaccacacag ataaccgtcg
+     4801 ccagaatcgc ccaggcggcg acaaaactga cggccacgct ctgcggataa atcagggaca
+     4861 gtgccaacat cagcgccagc gacacgttca gcatcagtga aagggataat ttcttcatgg
+     4921 tgtttactcc gtttaagccg gtacgccgcc agcggtacgc cagacggtga ccagtttttc
+     4981 cagtgaatgc tcacgctgac cgtaaccggc tcccggcagg gacgcccaga tattgcgaca
+     5041 gcgtgaaatg gcgcgctcaa tgcgtcccgc ccggatgtcc tccagcgcac cgcgttcgcg
+     5101 gatcaactga atggcgagtc tgtcctgtga caacggactg aaatccggca gggcaagctg
+     5161 tttgcggtag tgcggccaga acaggtaaag ctgctgatag cgaccggagg ccgtggattt
+     5221 ttcaccacga cggttaaaca ccttcgccgg tcggccatgc gcgaacgggt ggtcactgta
+     5281 gtcggtgaaa atttccggct ttccgtccag tccggtgact atcacgtcat agccccggtt
+     5341 tttcgtcagt ggatgattcg ccgtcccttc ggacacggcc agcatgtcga gaaaggcggc
+     5401 gatattctga tgcgtgttaa ttaccggcat tacggtttcc ccctgccctt aaagcggcgc
+     5461 tgaatggcaa tctcaatcac ctgataaccg gcgataccca gcatggagcc gatgccgcac
+     5521 accgcaggca gtgacaggtc aggaaactgc accagaacaa caccggcaac catcgagaca
+     5581 aaaccaccga gcaacatgcg cccgataaac agacgcgggg tgatggtttc accaccggca
+     5641 agcaccttgc cgacaacaat cagcactcca atcatgaaaa gcgacagaac gcttttttct
+     5701 tctgctgtca tgcgttactc ccacagattg acagtttcag ccacgggcgc ggtctgaaca
+     5761 tcgggcagtt cgacggcggt gccgtgcggc agcatcgcac ccagttcagc cagtcccgga
+     5821 tttgcggcga gcacggtctc aaccacgccc tcagtgcgcc cgtaataccg gacacaaatg
+     5881 gcgtcgagcg tgtcgccctg tagcgcaaag gtcttcatca gatttgactc acgatgcagc
+     5941 gcggcttgtc ctggatacgt gccaccgccc agcgcatatc ccgccacagt tcatcaatgg
+     6001 tgctgtcaat gctgtcggcc ttcttgttgc ccttggcact ggcatccacg ccgcgataac
+     6061 gctcataaag cgatgcggtc gccatcgcac acacggcgcg ctcgtagtaa aaaactttga
+     6121 tgctttcacc gtcgatgtcg tccgccggga cgtccgccag acgcgtaaaa ccggcagcaa
+     6181 ttttctgttc gcggtactcg tacagctccg cattcgtctc cgccatgcct gacttgatgg
+     6241 cctcacgcag acgggcgggg gcgacggtct gctcaaggcg catacgttcc cggacgcgct
+     6301 tcgggtcgat atcgggaaaa aagaacgtgt ttttaatcac cggctcgtcg cctgccggtt
+     6361 gcgggatgac caccgtaccc tcaccggaca cgggagcctc ctttcgcgga ataatcagcg
+     6421 tcatcatgac tacctctgaa aagtcgggcg gtggacgccg gtgcagtgtc aggtgattca
+     6481 ccctcactga ccggcgtgcc gccctggcgc ggggcgcatt cggttgttaa ctggctttct
+     6541 ttttcgggcg tccacgtttt gccggtgtca cgctccgtgt cttacgcggg gcgcgggtgg
+     6601 ccgctttggg ctgcggctcc ggcttcggtt tcagctcccg ctccagtcgt tcaatctctt
+     6661 ttttgacgcc tgcctgacag tcgagctgtg tcgcacgttg caggtgcgcc agcgcaccgg
+     6721 cggcatcacc ggcgtcacgc agaaacagac cggtgatttt gtgcagcttt gcgcgcactt
+     6781 catcaggcat gtcagccgtg gcggtcagtt caagggtgtc cgtcagcagg cgggtatcca
+     6841 cagactcacc ggcagcgtga gcgcgcatgg ccgcaagcgc cacctcctcg gtgaacatgt
+     6901 acggcggggt acggcggtgt ttacccggca tggtcagacc gtacttcagg gcataacggg
+     6961 caatctccag cgcaccggca atatcgccgg tatccagacg ccacagcatg accgtcatca
+     7021 gaatgtcatc ctgtgcacct ttgccctgct ccagcacgcc gttcacccac ggcaaccaga
+     7081 acggcagcag ttcgcgtttt tttgcggcct tcagctcttt tgaataaatc gctttcagtg
+     7141 tgcgctggtc tgcggccagc ttaaccagca tctgctcata gacagttgca tgtcgcagcg
+     7201 gggcggcgtc ccgctgagcg gtcatcgctg ccgagacccg catcatgtgg cgctgtgcgg
+     7261 gactcgtcat cggttacgct cccggctctg cggtcgcttt agccggtgtg gagaaatcac
+     7321 cgaccttaat tttttccacc agacaaccgg cggcgtagtc ctccaccacg taatcaatgt
+     7381 tcattgactc gtagttctcc acacggtcga gtttcgggtt ttcctcaatc acgcggcgat
+     7441 ggctgtcatc catgtagtag atggacaggt tttccagctt cgtgatgagc atcgcatccg
+     7501 ccgggaagta cgggacgcgt accgctggca ggttgccgat gcgtttctgg ctgatgatga
+     7561 cgtcagcggc cagcatttcg ctgttgtcct gctccttgtt gacgatggga aaatacttgt
+     7621 ccgccagtag ctgacgcccc acaatcacca caaggtcagg gtcttcctga taccacggct
+     7681 caatcaggtt gttggtcgca tccatcacca gtgcatcaag gctggcataa tcaccgccct
+     7741 tacccacgcg gatgacctca gaggtcgtgt gaccttcctc gtcagtgacc ttgctcatca
+     7801 cgcgcgccgg tgcttcattg cggtatttct gcagccagcc gaccgccaca tcctgcagca
+     7861 tcggattgct gctgcggtca gaggtttcgg cacgcctcac gccgttaaaa ccggccatga
+     7921 ttaaatcaag ggactggcgt ttgataatgg cgttacggac acggagctgg aaatcctgat
+     7981 aacgcgccca caggtcaaga gttttgtagc ggatataaaa atcgaagtta atctggtcgc
+     8041 attcgtactt gtttgacgcc agcttcgaga agtccttcgg ctgacgctcg gtgccaccgg
+     8101 cggtgtcggt ggtgctggcg atggagccgg tgacaccaat accaattttt tcccctttca
+     8161 tttcgctgac cggcacaatg ttgatgcggg tcagaaaatc agaggactcc tgcatggtgt
+     8221 tcatcagggt ctgggtgacc gacggttcaa cggtgaattt tttcgacaca tcaccggcgt
+     8281 cgatgccgtt cagttcggca acacgggaca ggtaggcatt aaatttaaag cgggtttcct
+     8341 ggcgcatagt ttttcctgaa attaagggtt aatcgtgaag gtttgcccgg actggctgac
+     8401 gccggtcagc agttcgtcat cagggcgtca ccgctaccac cggtggcctt gctgcggcgc
+     8461 tgctgggtca gactttcggt gctgtcgaga ctgtttttca ggcgggtgaa tgcctggctg
+     8521 gtttcatccg ccctgtcagt cacctcctgc ttaagagcgg aaaaggcagt ttccatctca
+     8581 gcgaggcgct gctcagtggc gctcagtttt tcctgcacat gttcagcgac agcggtcacc
+     8641 gcttcatgca cgtcattcag acgggcgtca tcgctggcct gtttgcggcc aaaaatggat
+     8701 ttcacctttt cggtcagggc ggtgaacacg gtttcaggca ggtcttcaaa ttccagctca
+     8761 acaggcgttg ccactgaaat caggttttca gggcttaatt tgaagcggtt cagggggttg
+     8821 tgttttgccg tgcggcagaa ttccaggtat tccgtgccga ggcttgccgg gtcatcggtg
+     8881 acggccagac ccaccagata acatttgccg gtattggcaa agttcggctg aatttccatt
+     8941 gaggtataga ccttctgcgc ggccttgttc atcgcgataa ggtcatcggt cggggtgatt
+     9001 ttcgcaaaca gcgcccattt gcctttcagc gccgaatcat cgtcaatctt ttcggccttc
+     9061 agttcgacca catcgccata acgcttaaaa ataccgtcag gcaggatgcc gcgcagatgt
+     9121 tccaggttaa tgcggcaacc atagactcgc gggtcaaagg tttcggccat ttcctgaata
+     9181 tcctgcgcac tgatgacacg cccgtcacag gtgtcaccct caacgccgat acgaaagaat
+     9241 tttgagactt tttttgccat tgtcaggagt cctgaatagt gattagagga gtcacatgtc
+     9301 ggcatcagtt tcccgacgat gcgcatcctc cgccatcagt cccggatggc ttatcactga
+     9361 cacaacagca ccttagcgaa tcgcggggcg cgactcagta gccttgccgt gtattcatca
+     9421 cggcgaggta ttcatgacca tcaccacaga caccactctt ttacacgacc cgcgtcgtca
+     9481 ggcggcgctg ctgtactggc agggattttc cgtgccgcag attgccgcca tgttgcagat
+     9541 gaaacgcccg acggtgcaga gctggaaaca gcgcgacggc tgggacagcg ttgcccccat
+     9601 cagccgtgtc gaaatgagtc tggaagcgcg gctgacccag ctcatcatca aaccgcagaa
+     9661 aaccggcggt gacttcaagg aaattgacct gctcggacgc cagattgaac gactggcacg
+     9721 ggtcaaccgt tacagtcaga ccggcaacga ggcagacctt aatccgaacg tcgctaaccg
+     9781 caacaaaggc gggcggcgca aaccgaaaaa gaattttttc agtgacgagg ccatcgaaaa
+     9841 gctggagcag attttctttg agcagtcttt cgaatatcag ttgcactggt atcgcgccgg
+     9901 gcttgagcac cgcatccgcg atatcctgaa atcccgccag attggcgcga cgttttattt
+     9961 ttcccgcgag gcgctgctgc gcgccctgaa aaccggtcat aaccagattt ttctgtcggc
+    10021 cagtaaaacg caggcgtatg tgttccgcga atacatcatc gcctttgccc ggctggttga
+    10081 cgttgacctg accggtgacc cgattgtcct gggcaataac ggcgcaaaac tgatttttct
+    10141 cggcaccaac tccaacaccg cacagagcca taacggcgac ctgtacgtcg acgagatttt
+    10201 ctggatcccg aattttcagg tactgcgtaa ggtggcatca ggtatggcct cacagagtca
+    10261 cctgcgctcg acctatttct ccaccccgtc cacactggcg cacgacgcct acccgttctg
+    10321 gtcgggtgaa ctgttcaacc ggggacgcgc cagcgccgcc gaacgtgtgg aaatcgacgt
+    10381 cagtcataac gcccttgccg gtggtcttct ctgtgcggac ggccagtggc ggcagattgt
+    10441 caccattgag gacgccctga aaggcggctg cacattgttc gacattgagc agctcaaacg
+    10501 cgaaaacagc gccgacgatt ttaaaaacct gttcatgtgt gaatttgttg acgacaaggc
+    10561 atcggtgttc ccgttcgagg agctgcaacg ctgcatggtc gacacgctgg aagaatggga
+    10621 agactacgcg ccgtttgccg caaatccgtt cggctcccgc ccggtatgga ttggttacga
+    10681 cccgtcacac cgtggcgaca gcgccggatg cgtggtgctg gcaccgccgg tggtggccgg
+    10741 tggcaaattc agaatacttg agcgtcacca gtggaaaggc atggactttg ccacccaggc
+    10801 ggagtccatc cgcaaactca ccgaaaaata caacgtcgaa tacatcggta ttgatgccac
+    10861 cggcctcggt gtcggcgtgt tccagctcgt gcgctcgttc tatcccgccg cgcgcgatat
+    10921 ccgctacacg ccggaaatga aaaccgcaat ggtgctcaag gccaaagacg tcatccgccg
+    10981 tggctgtctg gaatatgacg tcagcgccac cgacatcacc agctcgttca tggctatccg
+    11041 caagaccatg accagcagcg gacgcagcgc cacctatgag gccagccgca gcgaggaagc
+    11101 cagccacgcc gacctcgcct gggcaaccat gcacgccctg ttaaatgagc cactcaccgc
+    11161 cggtatcagc actccgctga catccaccat tctggagttt tactgatgag caagaaaaaa
+    11221 gggaaaacac cgcgacctgc ggcaaaaaca atcaccgcca gcgccccgaa aatggaagca
+    11281 ttcacctttg gtgagccggt gccggtactc gaccgccgtg acattctgga ttacgtcgag
+    11341 tgcatcagta acggcagatg gtatgagccg ccggtcagct ttaccggtct ggcaaaaagc
+    11401 ctgcgtgctg ccgtgcatca cagctcgccg atttacgtca aacgcaatat tctggcctcg
+    11461 acatttatcc cgcatccgtg gctttcccag caggatttca gccgctttgt gctggatttt
+    11521 ctggtgttcg gtaatgcgtt tctggaaaag cgttacagca ccaccggtaa agttatcagg
+    11581 ctggaaacct caccggcaaa atatacccgc cgtggtgtgg aagaggatgt ttactggtgg
+    11641 gtgccgtcct tcaacgagcc gacagccttc gcgcccggtt ccgtgtttca cctgctggag
+    11701 ccggatatta atcaggagct gtacggcctg cccgaatatc tcagcgccct taactctgcc
+    11761 tggctgaatg agtcggccac gctgttccgc cgcaagtatt acgaaaacgg cgctcatgcc
+    11821 ggatacatca tgtacgtcac tgatgccgtg caggatcgca acgatatcga aatgcttcgc
+    11881 gaaaacatgg ttaagtcgaa aggccgcaat aactttaaaa atctgtttct ctatgccccg
+    11941 caggggaaag ccgacggcat taaaattatc ccgctcagtg aagtggcaac gaaggacgat
+    12001 ttttttaata tcaaaaaagc aagtgctgaa gatctaatga gtgctcatcg cgtgcctccc
+    12061 caaatgatag gaatgatgcc caacaacaca ggaggatttg gagatgtaac aaaagcagca
+    12121 caagtctttg tacgcaacga gctaacgttc ctccaagagc gatgtaaaga aattaactgt
+    12181 tgggttggcg aagatgtatt tcgctttcga acttattcat tatgacccat caccgaaaca
+    12241 aacacataac aagattagaa ccaacacaaa tatagtgtaa aagattacac gacaggcatg
+    12301 caaatgcatg cctgtacaag agaacacttc atgtaaaaga agttattttt tgctgcgcct
+    12361 tcattttata gaaatgcaaa ttcactccgt cactcaaaag aattttcttc tttaacctat
+    12421 tggtttctgt tgagtttagc ggattcctag tgctaacaat agcaccatgt tttttttctt
+    12481 tagcacctac attaatcaca cctgacttta aagttgtcac tatctgttta acagcttttt
+    12541 caacatcact tcctttaagt tcaacaaaaa gatgtgaaac atcctgattg ttataaatct
+    12601 tcaaataatg atcacaccgc tctccaacaa caatagcgca accatctatt aacttatgct
+    12661 caacttccaa ctcattatca tttgtgactg acaattgcgt tgacgttcct ttatcagata
+    12721 gcacaatgat tttatttttt gtttttcctt tgcaattttt acacattcaa tcacctaatt
+    12781 cacagtagcc gaatattcga tatcaatcaa tgcatcaaaa gtctctgaaa aaatagagga
+    12841 aatcctatct atttcattcg catctaatat atttagttcg gaatccagta tttccgtcac
+    12901 tttcccagca ttaaccatat aagctgtcac atcatcaaaa tcaataattt gagactctgg
+    12961 aacaagctta tataagcgtt cgatatcggt attattcttg cccttaatac acttcaatgc
+    13021 attacctgct tgaatcaaat tattgaaggc acttagaata tatggactat gtgttgttat
+    13081 tgtatagcta caatagcttt ctgcttggtt atacgctgag gctattaaag atacaacttt
+    13141 tgcttgggca gaaggaaaca gatgagcctc cggctcctca ataataaaac tcttactagt
+    13201 catagactgt aaatacggcc atgaggataa cattaaagcc attggtaacg cttcttgctg
+    13261 ccctgagctc gagttgttaa gattcgtctt cttagcagca tgacgaataa aatcctcacc
+    13321 cttttctgtt atatattttc cgcaaatcaa ctcctccaca agtttattaa catgttgagg
+    13381 cacagccccc ctaagcatcc taatcatgta atcttggtta aataattttt ttgtttgttc
+    13441 atacagagaa ccaaactctg tcaaaaagta gtcaatttct atactactgg ataaaaatga
+    13501 aaacacattt ttttgcaaat tagcaaaaaa agagcgccct gcggggatat aaaaaacact
+    13561 ttcaagcttt gtttctggtt ctgaaaacaa tcctagagaa agacatactc gcaattcatg
+    13621 ttcaattccg cgtttacgcc ttctcgtaac gctttctgca agtgaattct caatattttc
+    13681 atctaaatcc tttcgtacaa tcaaacgaag tttagcaatc gtcttcgtta aattctcaga
+    13741 aagggctatt ttcaatgacc ctttgctatt ttttcgatta gtaatccgca cccaatagtg
+    13801 cttattacta tactcaataa aaaactcatc atcagcccaa tactgctgag ggaaaatttt
+    13861 actaaactta ttcttttgct ccttcaatat atctctttta gttttaccct ctgttgaagc
+    13921 tcgtagtata tccataggat aatctttaaa atattttatt agctttgcaa tgacactttt
+    13981 cccctgtgcc tgaggcccaa taaatatatt cactttctta agaggaatat caactttttg
+    14041 aatagtgaga aacttatcaa tctttatatt ttccatatca tctcctttga tgtgttttta
+    14101 agcgtaaaca cctttttatc atatgtacaa aaacacaaat actcaaccat aatccttcgc
+    14161 tcttctgttt atcttacgcg cggtgctttc cccgcctcgc ccgcccgctt catgtggcgg
+    14221 ttttaatgca gttgcataga tactatggat ccgcaccagc tctgaccgca agcagcggga
+    14281 acgggcatcc ccgacgcatg caaaaacatt cacttgttgc atgcacggct tatttaatga
+    14341 caaatcaact taagcgtcac cgcagctccc acaaaaaacg taacaccatg attttagtga
+    14401 tatttatgac ttttttaatt gcttatttaa gtccgccaca ttgaaatcgt gcatttttta
+    14461 gccaccaata actttaaaaa atttacattg ctttcaatac cttatcatcc gtagtccctg
+    14521 ctttttactt tgagctatat caaaaaaagc tcaaacatcc ttgatgcaaa accagtatta
+    14581 cacaacataa aatgcaacca gaaacaacga catactatat gttgtgttgt tcaggctctc
+    14641 tgttcggtga tatgccagat cactttgcgt ttaaacagag cattatttca gggcaagact
+    14701 tcgctaaata ttaactccgc cttagaagcg catatatcgg cggaaattgc cctctgctta
+    14761 caggaggaga tatgaagaag tgctattact gcattctcgt tctggccctc tttggctatc
+    14821 catatggtag tccaagtggt ttgtcagtaa acgtcagtaa tatccatgta agtattattc
+    14881 tttagtatgc ttcaaacaaa aaaaccacct gccagggtgg tttttttgcg cctgtcatca
+    14941 ttccgatgaa agactagcaa gacttcgctc gagatgaatt atgcttcgac aaaaggtcac
+    15001 tcgcaatggt tttattagcc gaaatagatg ctcttttatg actcgaatca aatagctgcc
+    15061 ttaaattaca tgctagcgat tcaatacaat ttagccttct acttcagcat gctattgctc
+    15121 ctcatctgcc ttagaggcgc ttcgcataat ccattcaaag gcatataaaa tcacgctgca
+    15181 ttttcactca aatgggtaac aaaaatccag gccactcatc agcgacctga taattgaaag
+    15241 atttcccgta ataatttacg gtcgcgccac gcgccagcgc ctcaagctcc catcgctgcg
+    15301 gcctgatacc gttctgagca aggtcaacgc ggatacgggt aatttgcatt ctttccgacc
+    15361 gggtcagtct ggccgatggt gcaatttcat gtggttttaa cgggcttccg tttctttgct
+    15421 gacgatttgg tgttctcagg tcgtgtttta atgcccccct gagcgccctc acgacctccg
+    15481 tgtcattcca ttcgataaca ccgtcatcaa ccagattaag cactgctgcg gcgtgctcag
+    15541 aaggtgtggg agccggtaac gaagtatcac caccggtgag ctttccacag ttattgacag
+    15601 gactccgagg cgcggcgatg ccgcttttta aagtcaaagg ctcaacgacc ggaactttcg
+    15661 gcacaatgcg ccagtccgtc gttctggtga tatgaatatg acgcgcgccg agatgcggcg
+    15721 cgtaaatgcc gaccactctc tcgacttctt cctcgtactc gttaacgtca tccgacgggc
+    15781 tacgggcgac tctgacagtc tggcaatcac gcggaacatt tgccccaccc tgtgcgctga
+    15841 tatacaacgc aaaatcacca ctgtctgcgg cggcacgtgc agcctcaacg cgttcgtcaa
+    15901 actcatcagc aatgctgacg ccgcgaggca atttgcgtag ttcacggtaa gcccccattg
+    15961 tcggcaggcc aaccgtttta aattgcggga tgcgccacgt tgacgcccat gcggtaacag
+    16021 ccgctgcagt gtctttcagc ggcctgccgg tgtcgttatc gagctgacca tccagtgcat
+    16081 agccgtcgat gttttttgaa atgtatttcg cgatatatcc cgcagcaccg ccccggttaa
+    16141 gatgttttgc ctgaaaacgg tttcgcgcgg ctcctctttc gtcgccatcc tctttgagcg
+    16201 cgtagcgacg catgatttca ataatctggt tacgctggcg tggattacaa aaaagcatca
+    16261 tatgccagtg cggcgttccg tcgtggtgtg gctcgacgac acgcaaaccg tagacctgta
+    16321 aatcattatc cttgaatgcc gtgcgcatca ggctccagat gcggcagaga taacgctgcg
+    16381 catcctttgg attaaatgcc tcatcgttcc agccgtgatt tagctggacg gctttacttt
+    16441 cgccttttcc gacctgacgt gtcgggtgat actttgacgg cgcggtcagc gtgataaaca
+    16501 tccccacatc accctctgcg gcggcgtaac gctcaatacc ggcaatggtg ttcatcagct
+    16561 ccatccggcg aatttcagga ttagaaatac tgcccatcac cttactgata aggtcgatgc
+    16621 gctcgccggt ttccctgttt tcaaggtcac acgatttaag aaattccaga tttgcctggc
+    16681 ggcgcgcgcg cacatcacga atggcatgtt tactggcata aggagaacgg tctttattga
+    16741 cctccccgac agcaatcagt aacgcctcat gccagcgcat acgctggcct ttaagctgat
+    16801 gagtccacca ctcatcgtta aacagacggg caatggcaga atatgcctgc ctcgtggtca
+    16861 tctgcccttt acggtatttt ttccagtaaa gcggggaaat attgaaagca cgtgcagcgc
+    16921 cagcaacatg accatagagg tgagcctgcg cctcatccgt aaacagcgat tctttttcgc
+    16981 catgcgcatc cacccaggca tcgctgagtt cctcatacat catgaaaagc tgcgatgaga
+    17041 tacgggcagc aaactttttc agctccttgt cattcattcc cggcaggcgc gcatagtggt
+    17101 cacgctctgc cagaaacagt aacgacgcgt cggtgttcat ttcatggcgc tgattcacac
+    17161 gctcaatgcg cggccataaa cgacgctgaa aagtggatgt gaggaaataa aacccgtgca
+    17221 ccgggctttt attgcgccgg atgtagtcat agcgtgaagt aaacagcgag cgcaaaaagt
+    17281 aaggcaggcg gttaatcgtg gataaaacac cttgcacctg acgcatctcg tcacgtgtaa
+    17341 ggggtctttc gcgcccgacg gcctcgcgtg gcgcgttcca tgcataagca ccggtaaacg
+    17401 tctcaccggt gcctgcggca aatactgacg gagggacaaa atgcccggag gctttaacgg
+    17461 tcatatgagc caaaagcctc tgaacaacgc ttgctgagtt gctcaacctg cgcgtttaaa
+    17521 tcagcaaaag actttgcgct tccggtcaga atatcgtgat gcatcaggcc ggaaacgagc
+    17581 tggcttaatt tcgggtaata accaaccacc gacagccatt cctgaccggc gtttttaccg
+    17641 ctttccgctc tctttttctc gtggagaata aactgaaagc tgtcactggt aacgacataa
+    17701 cgttcgccaa tttcaatacg aatactcatg ccgttctccg gtaatgtttg ttttttgctt
+    17761 caaagactga ctgacaggaa acacaacgcg tggctgacgg ataagccgca cgacgggcag
+    17821 caggtattgg cgcatcacac tcttcgcaaa ccagcgaaga aacaccgcaa tgttttaccc
+    17881 ttgccgcgtt aatctggcgc tccagtaatt cagcctgttg ttcctgaata aaatctacgt
+    17941 tgtccggcat taccagttcc ttttgtcgtt cagtttttta aattcatcag cgcaatagct
+    18001 ggcgatttct gtcgttaatt ttgtcagctc atccacggat gaaatttgct tgtggaatac
+    18061 agcgcgttta acaagtaaat tgaccacatc agacaggaga tttaattcgt tctgataaat
+    18121 cgcgataaca gactcagtta tttcgcgttt ttctttatca agaccaagtt gaataagaga
+    18181 taaatcgcca tttttcataa cggcgatttt taaggcgtta ttcagtaata caactgaatg
+    18241 agaacaggac atcaaagcac cttcccgcga gacaatccga tattgtgaaa tttttccgac
+    18301 tcctgactga gcagctcgac tatctccacg cgggataact ccgcctttgt gatgtggcga
+    18361 atcatggcgt caagatgaga agaaaagcgc gtcgcagcgt cggcctgtgc ttcggttctg
+    18421 gcctgttgca gcagtaatgc gtatataccg cactgatttt cagaaactgt atgcatgact
+    18481 ttctccaggc aaaaagaagc cccgcacgat taagtgcgtt aaaaactctg gttaattact
+    18541 taatgcagat attgctctgg ttttaccgac gtcagaattg tcggtgcata ctcaaacagg
+    18601 ctgaataatt cacgtaatgc acggaacaaa gcatcacgcc agtaacatga ttcttcatta
+    18661 attcgccagt atggctggtt gaattctttt tcagtcagtc gtgcgtgcat aaataaagtg
+    18721 cgacgctgac tgactgttaa aaaactaata tatgcatact cacttgcacc gacctgacgg
+    18781 cgttttgaga atgccccacg cagttcatca attgcacaaa ccagccgttc acgttcgacg
+    18841 tcgttcattt cttcaaaacg catcgttgcg tgacgctgtt ttaactgcgc atggaagcaa
+    18901 accgttagcc gttcgcgttc catcatctga ttataataat cgcatgtctc ctgccagcga
+    18961 gggacggcca gatgcttacc aattatccgg cgcatagctg ctggctgttt ttcaacgaga
+    19021 ttaagcgtca tcactgtcat ttccagaccc tccggctttt cagaaaggtc agagcctttt
+    19081 ttaacggact ctgttttttg gtgcggataa tgattccctt acgcccctta ccgtgggtga
+    19141 tggtgaagtc aatcgccctg gggctttcgt tacgcagtaa ctgagcaata caacgaggct
+    19201 cattcatacg gttctcctta acgtggttca ccgagaccta accacatcaa ccagccgtca
+    19261 cgaatctctt tagggcggct ttcataagcc agttttagtc cgttattcca tgccggaagg
+    19321 tatacccaat attcacc
+//
+LOCUS       109_assemble_contig_2        11779 bp    dna     linear   UNK 
+DEFINITION  Escherichia phage pro147 109_pro147
+ACCESSION   109_assemble_contig_2
+KEYWORDS    .
+SOURCE      Escherichia phage pro147
+  ORGANISM  Escherichia phage pro147
+            Viruses; Duplodnaviria; Heunggongvirae; Uroviricota;
+            Caudoviricetes; Peduoviridae; Peduovirus; Peduovirus pro147.
+FEATURES             Location/Qualifiers
+     source          1..11779
+                     /note="1649239.15"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1649239"
+                     /organism="Escherichia phage pro147 109_pro147"
+     fasta_record    1..11779
+                     /note="109_assemble_contig_2"
+                     /db_xref="taxon:1649239"
+                     /label=109_assemble_contig_2
+     CDS             complement(1..567)
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.36"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /translation="IDTRRFNTLTSSGGAVLADKRFRNLKCAWVIRYFCEDFNFSKIR
+                     FPMLFVFTL*IPPDLCQLRQTSLVCWF**PFFIVVVVQRVFLESDSFAFLIKLPTDAF
+                     SITSSRADVHFISTIIEFFDCHQKTLRVVLFFATTNRFFRGG*NLATNSRHL**IYSR
+                     *IVNQSFDRSGATLFRFAQSVRERAQFAR"
+     CDS             2..196
+                     /translation="RANCARSRTLWAKRNNVAPLRSKDWLTIYREYIHHKCLLLVAKF
+                     QPPRKKRLVVAKKSTTRRVF"
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.37"
+     CDS             196..1209
+                     /db_xref="RAST2:fig|1649239.15.peg.38"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /product="Phage integrase"
+                     /translation="MAIKKLDDGRYEVDIRPTGRNGKRIRRKFDKKSEAVAFEKYTLY
+                     NHHNKEWLSKPTDKRRLSELTQIWWDLKGKHEEHGKSNLGKIEIFTKITNDPCAFQIT
+                     KSLISQYCATRRSQGIKPSSINRDLTCISGMFTALIEAELFFGEHPIRGTKRLKEEKP
+                     DTGYLTQEEIALLLAALDGDNKKIAILCLSTGARWGEAARLKAENIIHNRVTFVKTKT
+                     NKPRTVPISEAVAKMIADNKRGFLFPDADYPRFRRTMKAIKPDLPMGQATHALRHSFA
+                     THFMINGGSIITLQRILGHTRIEQTMVYAHFAPEYLQDAISLNPLRGGTEAESVHTVS
+                     TVE"
+     CDS             complement(578..1108)
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.39"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation="RKP*FAQSACDLVSVVA**YFLH*S*NEWQSCALVHVWLAPLAN
+                     PVLLLSLFV*SEGNQHQGIKNLVCYPRSFWQQPLRSGRCVVCLFSF*QT*RGYG*YFL
+                     LSNELLLPNVLQYSGKESQSFCCRRQEQQAVRQFLPA*DSLCLVFPP*AFLSL**GAH
+                     QRITPLQSGL*TCR*YM"
+     CDS             complement(1101..2009)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.40"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MP*PRYMPRKHRPCAQLRRSGINCNGV*RSSPSAWLPVGQIFTR
+                     KHRSKCQALSAS*TSRTGQSLR*HIF*IIAASRRPWSLRSGFLMWSTKQKMTSDVFIL
+                     SICFIRIN*LKWHHQQNRKRCSRCFIVLYASMPHMRVQVAISLTRQKSVITSART*IA
+                     APRSSPMSRYRDTS*SREKSTP*GRTRYRQGSKLCGCNYKQKAPQSRGFFVDVVNVWT
+                     *PEINPFISLNYA*KISPCKGDLGCHQ*GLSTVQCGFERHKLPLKALKRYSTVDTVWT
+                     LSASVPPLSGLREMAS*RYSGAK*A*T"
+     CDS             1226..1336
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.41"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation="MVIYAAQTRIVPLKAPTGDTLNLPYTGLFFTRNSMK"
+     CDS             complement(1417..1671)
+                     /translation="MAPSTKPEEVLAMFHCPLCQHAAHARTSRYITDTTKERYHQCQN
+                     VNCSATFITYESVQRYIVKPGEVHAVRPHPLPSGQQIMWM"
+                     /product="Phage protein Ogr"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.42"
+     CDS             complement(1717..2880)
+                     /translation="MLDALTFDAGSTLTPDYMLMLDSRDITGNISDRLMSMTLTDNRG
+                     FEADQLDIELNDADGQVGLPVRGAVLTVYIGWKGFALVCKGKFTVDEVEHRGAPDVVT
+                     IRARSADFRGTLNSRREGSWHDTTLGAIVEAIASRNRLEASVAPSLAGIKIPHIDQSQ
+                     ESDAKFLTRLAERNGGEVSVKMGKLLFLKAGQGVTASGKKVPQITITRSDGDRHHFAI
+                     ADRGAYTGVTAKWLHTKDPKPQKQKVKLKRKKKEKHLRALEHPKAKPVRQKKAPKVPE
+                     AREGEYMAGEADNVFALTTVYATKAQAMRAAQAKWDKLQRGVAEFSISLATGRADIYT
+                     ETPVKVSGFKRVIDEQDWTITKVTHFLNNSGFTTSLELEVRLSDVEYETEDDE"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.43"
+                     /product="Phage tail formation protein GpD"
+     CDS             complement(2014..2361)
+                     /db_xref="RAST2:fig|1649239.15.peg.44"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /product="Phage tail formation protein GpD"
+                     /translation="NGGEVSVKMGKLLFLKAGQGVTASGKKVPQITITRSDGDRHHFA
+                     IADRGAYTGVTAKWLHTKDPKPQKQKVKLKRKKKEKHLRALEHPKAKPVRQKKAPKVP
+                     EAREGEYMAGEADN"
+     CDS             complement(2358..2993)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /db_xref="RAST2:fig|1649239.15.peg.45"
+                     /transl_table=11
+                     /product="Phage tail protein GpU"
+                     /translation="VDESLAALYGDIGKQAESLIGKAGSMATRFTGMTGAG*CWMR*H
+                     LMQAVR*RRITC*CSTAGILPAISATV**A*P*RITGALRLTSLILN*TMPTGRSGCR
+                     FVALS*RCISAGKVLPWYAKGNLPLMRLNTGAHRMWSPSAPGVQIFAGRSIPAGKAPG
+                     MTPRSVRLLRR*PPVTGWKPVLRRHWPELKSRTSTSRRSLMRNS*PALLNAT"
+     CDS             complement(2880..3356)
+                     /product="Phage tail protein GpU"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.46"
+                     /translation="MLALGMFVFMRQTLPHQTMQRESDYRWPSNSRIGKRDAYQFLGV
+                     GEENITLAGVLYPELTGGKLTMTTLRMMAEEGRAWPLLDGTGMIYGMYVISRVSETGS
+                     IFFADGTPRKIDFTLSLTRVDESLAALYGDIGKQAESLIGKAGSMATRFTGMTGAG"
+     CDS             complement(3060..3512)
+                     /translation="*KRISHQSDGRYCAGDSARPPVTGCARKIRAG*TCARPCQHDA*
+                     RLRR**KMMLALGMFVFMRQTLPHQTMQRESDYRWPSNSRIGKRDAYQFLGVGEENIT
+                     LAGVLYPELTGGKLTMTTLRMMAEEGRAWPLLDGTGMIYGMYVISRVSE"
+                     /product="Phage tail protein GpU"
+                     /db_xref="RAST2:fig|1649239.15.peg.47"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+     CDS             complement(3374..5821)
+                     /product="Phage tail length tape-measure protein GpT"
+                     /db_xref="RAST2:fig|1649239.15.peg.48"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /translation="MSNNVKLQVLLRAVDQASRPFKSIRTASKSLSGDIRETQKSLRE
+                     LNGHASRIEGFRKTSAQLAVTGHALEKARQEAEALATQFKNTERPTRAQAKVLESAKR
+                     AAEDLQAKYNRLTDSVKRQQRELAAVGINTRNLAHDEQGLKNRISETTAQLNRQRDAL
+                     ARVSAQQAKLNAVKQRYQAGKELAGKMASVGAAGVGIAAAGTMAGVKLLMPGYEFAQK
+                     NSELQAVLGVAKDSAEMAALRKQARQLGDNTAASADDAAGAQIIIAKAGGDVDAIQAA
+                     TPVTLNMALANRRTMEENAALLMGMKSAFQLSNDKVAHIGDVLSMTMNKTAADFDGMS
+                     DALTYAAPVAKNAGVSIEETAAMVGALHDAKITGSMAGTGSRAVLSRLQAPTGKAWDA
+                     LKELGVKTSDSKGNTRPVFTILKEMQASFEKNRLGTAQQAEYMKTIFGEEASSAAAVL
+                     MTAASTGKLDKLTAAFKASDGKTAELVNIMQDNLGGDFKEFQSAYEAVGTDLFDQQEG
+                     ALRKLTQTATKYVLKLDGWIQKNKSLASTIGLIVGGALALTGIIGAIGLVAWPVITGI
+                     NAIIAAAGAMGAIFTTIGSAVMTAIGAISWPVVAVVAAIVAGALLIRKYWEPVSAFFG
+                     GVVEGLKAAFAPVGELFTPLKPVFDWLGEKLQAAWQWFKNLIAPVKATQDTLNRCRDT
+                     GVMFGQALADALMLPLNAFNKLRSGIDWVLEKLGVINKESDTLDQTAARTHAATYGTG
+                     GYIPATSSYAGYQAYQPVTAPAGRSYVDQSKNEYHISLTGGTAPGTQLDRQLQDALEK
+                     YERDKRARARASMMHDG"
+     CDS             complement(3505..3972)
+                     /translation="SLSAHSLAVWWKG*KRHLRRWGNCSRHLSRCLTGWAKSYRPRGS
+                     GLKT*LPRSKPPRTP*TVAVTRGSCSGRHWLTR*CCRLMRSTNCAAVLTGYWKNSVLS
+                     TKSQTHLTRPPQGLMPPRMAPVVIFRRPALMQAIRLISRSRHRLAALMWTRVKT"
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.49"
+                     /transl_table=11
+     CDS             complement(3935..4093)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /db_xref="RAST2:fig|1649239.15.peg.50"
+                     /transl_table=11
+                     /product="Phage tail length tape-measure protein GpT"
+                     /translation="GAIFTTIGSAVMTAIGAISWPVVAVVAAIVAGALLIRKYWEPVS
+                     AFFGGVVEG"
+     CDS             complement(4080..4505)
+                     /translation="RGGGKLSRRRADDCRVNRKAGQTDRCV*SLRREDRRAGKYHAGQ
+                     PRR*L*GVSVRL*GGGDRPV*PAGRRTA*AHSDGHKVCVKTRRLDPEKQITGVNHRPH
+                     CRWRAGADWHHRCHWPRSLAGYHRHQCHYRGSRRNGGNLH"
+                     /product="Phage protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.51"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_si
+                     milarity"
+     CDS             complement(4493..4918)
+                     /translation="KSAFQLSNDKVAHIGDVLSMTMNKTAADFDGMSDALTYAAPVAK
+                     NAGVSIEETAAMVGALHDAKITGSMAGTGSRAVLSRLQAPTGKAWDALKELGVKTSDS
+                     KGNTRPVFTILKEMQASFEKNRLGTAQQAEYMKTIFGEEA"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.52"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /product="Phage tail length tape-measure protein GpT"
+     CDS             complement(4933..5430)
+                     /translation="IPAILHMMSRG*KTVSVKPPHSLTGSVTRWRVSVRNRQNLTQSN
+                     SVIRPERNWPEKWLQSALPVWGLRRRERWPELSC*CPVMSLRRKTQNYRLCSEWQKTP
+                     PKWPRYANRRASSVTIPLPRRMMLPVRRLSLRKPVGMLMPFRRQRRSR*TWHWRTAAR
+                     WRKTPP"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_si
+                     milarity"
+                     /db_xref="RAST2:fig|1649239.15.peg.53"
+                     /transl_table=11
+                     /product="Phage protein"
+     CDS             complement(5430..5711)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.54"
+                     /product="hypothetical protein"
+                     /translation="NTKITARAERSCIPY*GIPQDQCTARRDWSCT*KGTAGGRSPCH
+                     TV*KHRASDPCSGESAGIRKASSGGLTGEI*PPDGFR*TPAAGTGCCGN"
+     CDS             complement(5715..5918)
+                     /product="Phage P2 GpE family protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /db_xref="RAST2:fig|1649239.15.peg.55"
+                     /transl_table=11
+                     /translation="MVFHWPPSELYPMSLTELITWREKALRRSGNTNE*QCKITGIAQ
+                     GC*PGIPPV*IHPYSEQVAVGGYP"
+     CDS             complement(5814..5933)
+                     /translation="MADVAVVFHWPPSELYPMSLTELITWREKALRRSGNTNE"
+                     /product="Phage P2 GpE family protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.56"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+     CDS             complement(5918..6427)
+                     /translation="RGLHLFPADDGR*GAGRNRHH*HD*EGERRRPAGATPPKYRPVI
+                     FIRSARLTG*P*FRSEKTMNKENVITLENPVKRGEQVIEQVTLMKPSAGTLRGVSLAA
+                     VANSEVDALIKVLPRMTAPMLTEQEVAALELPDLVALAGKVVGFLSPNSVQ*RFRKIS
+                     RSMT*WRMWQ"
+                     /product="Phage P2 GpE family protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.57"
+     CDS             complement(5966..6241)
+                     /translation="MNKENVITLENPVKRGEQVIEQVTLMKPSAGTLRGVSLAAVANS
+                     EVDALIKVLPRMTAPMLTEQEVAALELPDLVALAGKVVGFLSPNSVQ"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /db_xref="RAST2:fig|1649239.15.peg.58"
+                     /transl_table=11
+                     /product="Phage P2 GpE family protein"
+     CDS             complement(6298..6816)
+                     /product="Phage major tail tube protein GpFII"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.59"
+                     /translation="MAMPRKLKLMNVFLNGYSYQGVAKSVTLPKLTRKLENYRGAGMN
+                     GSAPVDLGLDDDALSMEWSLGGFPDSVIWELYAATGVDAVPIRFAGSYQRDDTGETVA
+                     VEVVMRGRQKEIDTGEGKQGEDTESKISVVCTYFRLTMDGKELVEIDTINMIEKVNGV
+                     DRLEQHRRNIGL"
+     CDS             complement(6527..7270)
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.60"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation="RH*C*PAERGRRHNAGSPRRFPFLG*PYLL**PAVPL*KLHTHR
+                     AGTGRHDG*GAHVGY**AHHRNADSRHH*RHQCQIP*TEKQRLYRGWHMLVQRRIQRC
+                     GNPQGRKTVYRLRLYPGASSRKPDPAPAYYR*IPGKSGHLG*QQLRSLTDGNAAQTQV
+                     NERLSERLQLSGRCKVRHATKTDP*ARKLSRCGDERQRTGRPRP**RCAVNGVVARWL
+                     PGFGYLGALRRNRCGCRTDSFCWLLPARRY"
+     CDS             complement(6829..8019)
+                     /db_xref="RAST2:fig|1649239.15.peg.61"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /product="Phage tail sheath monomer GpFI"
+                     /translation="MSDYHHGVQVLEINDGTRVISTVSTAIVGMVCTASDADAEIFPL
+                     NKPVLITNVQSAIAKAGKKGTLAASLQAIADQSKPVTVVVRVEDGTGDDEETKLAQTV
+                     SNIIGTTDENGQYTGLKALMGAESVTGVKPRILGVPGLDTKEVAVALASVCQELNAFG
+                     YISAWGCKTISEVKAYRQNFSQRELMVIWPDFLAWDTVTSTTATAYATARALGLRAKI
+                     DQEQGWHKTLSNVGVNGVTGISASVFWDLQKPGTDADLLNEAGVTTLVRRDGFRFWGN
+                     RTCSDDPLFLFESYTRTAQVLADTMAEAHMWAIDKPITATLIRDIIDGINAKFRELKN
+                     NGYIVDGTCWFSEESNDAETLKAGKLYIDYDYTPVPPLENLTLRQRITDKYLANLVTS
+                     VNSN"
+     CDS             complement(7274..8347)
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.62"
+                     /transl_table=11
+                     /translation="ISHITKFLECECIAD*IDLLLIGIFQ*DICEINNSCQLSLLAQS
+                     RLSDLMAFGLSKLSVGK*VSTNQDWRANCPPFLYLLFHPLTSQVK*RLMLCTTENSCT
+                     H*PRS*TDE*LSSRRAGAGD*RRHPRHFHRIHRHCWHGLHGQRCGCGNLPPQ*TGADY
+                     QCAERNCKGR*KRHAGGVVTGHR*PVKTGHRCCARGRRHRRRRGNETRADRFQYYRHH
+                     RRKRSVHRTESPDGG*VGYRR*TAHSRRTGTGHQRGRRRTGIGMPGTECLRVYQRMGL
+                     *NHFRGESLPPEFQPA*ADGYLAGFPRMGYGYQYHRHRVCHRPCAGSAR*NRPGAGLA
+                     *NAVQRRGERCYRHQCIRLLGFAE"
+     CDS             8039..8176
+                     /translation="MGATIFCCAEHETLFDLAGQWMKQQIKKRRAIRPPVLICTHSFS
+                     D"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_si
+                     milarity"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.63"
+                     /product="FIG00643520: hypothetical protein"
+     CDS             8152..8253
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.64"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MYSLIFRLTIYLAQKPSNLTVCFERGAKVGSCY"
+     CDS             8396..9694
+                     /translation="MVGGVWNDKLDAKAAGWVADGNKKSGGQGVACPVVRSDMRAFLK
+                     VLKSQKDPERRARMYREAVALYTYEHPGIPSLIESNCHRYEQMNYKLYLVTEIVEGPT
+                     LREYIEENGAMSFQDAVDMIDRLLDIVEYYHSRDGIHRDIKPDNIILRCNNPADAVLV
+                     DFGLAWQPQDENAHATDNGQELGNRFLRLNELAPDSPNKRDPRSDITFVVGILFYVLT
+                     GKSPYVLEESETGRRPHQRDGVSESIHAATNGWALSMLALFDRGFSPLLNSRFQTVQE
+                     LRKELKRMSENKSTLADGEILLEIKKRLEAQGAEINSVYMSKIREAVSEIISVRNNII
+                     EEIGGHLSGVETGYYKSEPRHSWLNIGFDTPGTSYPRFRPTFDFQIIADELIITVFSE
+                     DRQGVAKTIWRTDVSNSDFGDIFRRKIREIFVTGLSEIFS"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.65"
+                     /product="hypothetical protein"
+     CDS             complement(8406..9326)
+                     /translation="SQHLELPTFF*FLKESHHPPM*IYFRSSSSTPFSTLVPSEIYYS
+                     IAVKNHGQTMQALKVPNH**RHEYFPILHRVGEVDAQSQILLKHTGFFLLIRKIKSLL
+                     QR*YRFEDLVY*DCLAQVH*ALRNDCLALGHYQ*HERSHLEVAMRDRNLPIQHQPGYY
+                     TGV*YYQV*YLCECHHENDSIRLYPTGDLSYQPHLEMT*PHFPLCTHVMLGLQLFL*L
+                     SKVCNSFVHNDGNYFL*EMEFPDVHRYRERLLRDTYELVAQGLSGFSILLKMLSCQNE
+                     PLDTPRLGHRFSCYHPLPSLPPSHPICHSTR"
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.66"
+     CDS             9434..11206
+                     /translation="GYYKSEPRHSWLNIGFDTPGTSYPRFRPTFDFQIIADELIITVF
+                     SEDRQGVAKTIWRTDVSNSDFGDIFRRKIREIFVTGLSEIFS**LVPININFY*CFS*
+                     I*CSAPY*LTHSEVYRDSSWHRAAVAALTPLDFSAIDTLAHTRAHTTYCGISGHSGFA
+                     GSTRLTRTL*RSHASSRLRSSSVAMFSLTARSSGKITNSASARSLAFRFSVCCCNSSA
+                     V*MRLITLPSLNIQFPEMFARRLAVISATSTTLNPSGLIAVASFST*RMILSLSYAIF
+                     SVSSAKYFCSSYQFLPSSEKNQTTPKSFVN*YCSTVFGLPAVIFIKCCINYTCATLYQ
+                     VPLMYFCTGL*YTPPMLSAEFEPVS*TIMPEYTHPDGA*CVHVMPLFAGLYVAAPPSR
+                     ISRT*RESKLL*LDGDTCPLTAKVMLLSVFL*L*KCQPASSPNSATTGRLEFPHKLNA
+                     ASFVDVLLLLTVNFFPLPARTLVLETISPVTLRPCPIDTAPVASFIISGLKLL*VPNL
+                     SPDLVNIK*VLLPSFLIKNP*LP*AMRRPLALLDVISPLERRP*AELSDNSS*ASVLP
+                     VAQRTTPPCTVSCQIVSPSPPRNFL"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.67"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(9880..10407)
+                     /translation="MQHLINITAGNPKTVEQYQLTKDFGVVWFFSEDGKNWYEEQKYF
+                     ADDTLKIAYDKDNIIRYVEKDATAIRPDGLSVVEVADITANRRANISGNWMFKDGKVI
+                     KRIYTAEELQQQTENRKARLLADAEFVILPLERAVRLNMATDEERSRLEAWERYSVLV
+                     SRVDPANPEWPEMPQ"
+                     /product="Phage tail fiber assembly protein GpG"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.68"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+     CDS             complement(10411..11778)
+                     /translation="DSETLAATPKAVKSAYDNAEKRLQKDQNGADIPGKDTFTKNIGA
+                     CRAYSGALSTEAGNWTTAQFIEWLDSRGAFNHPYWMCKGSWSYANNKIITDTGCGDIH
+                     LAGCVVEVMGTKSAITIRVTTPTTSSGGGTTSAQFTYINHGDGYSPGWRRDWNRQGDS
+                     MTGTINQDGGSQNAYMSTALCSGTRGGKKYLRKFRGGEGDTIWHETVQGGVVRWATGN
+                     TDAQEELSLSSAYGLRSRGEITSSSANGLRIAYGNYGFFIRNDGSSTYFMLTKSGDRL
+                     GTYNNLRPLIINDATGAVSMGHGLSVTGDIVSSTKVRAGSGKKFTVSSSNTSTKEAAF
+                     NLWGNSSRPVVAELGDDAGWHFYSQRNTDNSITFAVNGQVSPSNYSNFDSRYVRDIRL
+                     GGAATYKPANNGMTWTHQAPSGCVYSGIIVQDTGSNSADNIGGVYYRPVQKYINGTWY
+                     NVAQV"
+                     /product="Phage tail fiber, side tail fiber protein Stf"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /db_xref="RAST2:fig|1649239.15.peg.69"
+                     /transl_table=11
+     CDS             11206..12225
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.70"
+                     /translation="EIFFAASGA*T*GRRHIGILASAILINRSGH*VALTIPVTTPAG
+                     GVAVPMINVSELRAGCTATT*CCRRGHSDSDCRFSSHDLDDTTSQVDITTSGIRNDFV
+                     ICI*PGAFAHPVRMIKCTTGIQPFNKLSGCPVSGFSAQSAAISTTGTDIFREGILSRN
+                     IRTVLIFLKTFFSIVIGRLHRFWCCSQRFRI"
+     CDS             complement(12220..12309)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.71"
+                     /transl_table=11
+                     /product="hypothetical protein"
+     CDS             complement(12329..12766)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.72"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(12775..14076)
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.73"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation=""
+     CDS             14092..14226
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.74"
+                     /product="hypothetical protein"
+     CDS             14226..14444
+                     /translation=""
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.75"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             14530..14775
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.76"
+                     /translation=""
+     CDS             14772..14885
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.77"
+                     /transl_table=11
+     CDS             15028..15168
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.78"
+                     /transl_table=11
+                     /translation=""
+     CDS             complement(15188..17464)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.79"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(17454..17729)
+                     /translation=""
+                     /db_xref="RAST2:fig|1649239.15.peg.80"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(17726..17950)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.81"
+                     /transl_table=11
+     CDS             complement(17950..18252)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.82"
+     CDS             complement(18252..18476)
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.83"
+                     /transl_table=11
+                     /translation=""
+     CDS             complement(18540..19040)
+                     /translation=""
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.84"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(19037..19207)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.85"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             complement(19218..19337)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.86"
+                     /transl_table=11
+                     /product="hypothetical protein"
+ORIGIN      
+        1 ccgggcaaat tgcgcccgct ctcgcacact ttgggcaaaa cgaaacaacg tcgccccact
+       61 ccggtcaaaa gactggttaa caatttatcg tgaatatatt catcacaagt gcctactatt
+      121 ggtggctaaa tttcagccac cacgaaaaaa gcgattagta gtagcaaaaa aaagtaccac
+      181 tcggagggtt ttctgatggc aatcaaaaaa ctcgatgatg gtcgatatga agtggacatc
+      241 cgccctactg gacgtaatgg aaaacgcatc cgtaggaagt ttgataagaa aagcgaagct
+      301 gtcgctttcg agaaatacac gttgtacaac caccacaata aagaatggct atcaaaacca
+      361 acagacaagc gacgtctgtc ggagctgaca cagatctggt gggatttaaa gggtaaacac
+      421 gaagagcatg ggaaatctaa tcttggaaaa attgaaatct tcacaaaaat aacgaatgac
+      481 ccatgcgcat ttcaaattac gaaatcgctt atcagccagt actgcgccac ccgaagaagt
+      541 cagggtatta aaccttcgag tatcaatcgt gatttaacat gtattagcgg catgtttaca
+      601 gccctgattg aagcggagtt attctttggt gagcacccta tcagagggac aaaaaggctt
+      661 aaggaggaaa aaccagacac aggctatctc acgcaggaag aaattgcctt actgcttgct
+      721 gctcttgacg gcgacaacaa aaagattgcg attctttgcc tgagtactgg agcacgttgg
+      781 ggagaagcag ctcgtttgaa agcagaaaat atcatccata accgcgtcac gtttgttaaa
+      841 acgaaaacaa acaaaccacg caccgtcccg atctcagagg ctgttgccaa aatgatcgcg
+      901 gataacaaac gaggtttttt attccctgat gctgattacc ctcgcttcag acgaacaatg
+      961 aaagcaataa aaccggattt gccaatgggg caagccacac atgcactaag gcacagcttt
+     1021 gccactcatt tcatgattaa tggaggaagt attatcacgc tacaacggat actaggtcac
+     1081 acgcggattg agcaaactat ggtttacgct cattttgcgc cagagtacct tcaggacgcc
+     1141 atttctctta atccgctaag aggtggtact gaggccgaga gtgtccacac agtgtccaca
+     1201 gtagagtaac gtttaagggc tttcagtggt aatttatgcc gctcaaaccc gcattgtacc
+     1261 gttgaaagcc cctactggtg acaccctaaa tctcccttac acgggcttat tttttacgcg
+     1321 taattcaatg aaataaaagg atttatttct ggtcacgtcc acacattgac cacatcgaca
+     1381 aaaaagcccc tcgactgagg ggctttctgt ttgtaattac atccacataa tttgctgccc
+     1441 tgacggtaac gggtgcggcc ttacggcgtg gacttctccc ggcttcacga tgtatctctg
+     1501 taccgactca taggtgatga acgtggcgct gcaattcacg ttctggcact ggtgataacg
+     1561 ctcttttgtc gtgtcagtga tatagcgact tgtacgcgca tgtgcggcat gctggcataa
+     1621 aggacaatga aacatcgcga gcacctcttc cggttttgtt gatggtgcca ttttagttaa
+     1681 tttatcctta taaaacaaat agataaaata aaaacatcac tcgtcatctt ctgtttcgta
+     1741 ctccacatca gaaagcctga cctcaagctc cagggacgtc gtgaagccgc tattattcag
+     1801 aaaatgtgtc accttagtga ttgtccagtc ctgctcgtct atgacgcgct taaagcctga
+     1861 cactttgacc ggtgtttccg tgtaaatatc tgcccgaccg gtagccaggc tgatggagaa
+     1921 ctccgctaca ccccgttgca gtttatccca cttcgcctga gctgcgcgca tggcctgtgc
+     1981 tttcgtggca tataccgtgg tcagggcaaa aacgttgtca gcctcacctg ccatgtattc
+     2041 accttcgcgc gcttccggta cttttggcgc tttcttctgc ctgaccggtt tcgctttcgg
+     2101 gtgctccagt gcgcgcaggt gtttctcttt ctttttgcgt ttcagtttta ccttctgctt
+     2161 ttgcggcttc gggtctttgg tgtgtaacca ctttgccgtt acgccggtat aggctccacg
+     2221 gtcagcaatc gcaaaatgat gacggtcacc gtcactgcgg gtgatggtaa tctgcgggac
+     2281 ttttttaccg ctggccgtca ccccctgccc cgctttgaga aacaacagtt ttcccatttt
+     2341 taccgacacc tcaccgccgt tgcgttcagc aaggcgggtc aggaatttcg catcagactc
+     2401 ctgcgactgg tcgatgtgcg ggattttaat tccggccagt gacggcgcaa cactggcttc
+     2461 cagcctgtta cgggaggcta tcgcctcaac aatcgcaccg agcgtggtgt catgccagga
+     2521 gccttcccgg cgggaattga gcgtcccgcg aaaatctgca ctccgggcgc ggatggtgac
+     2581 cacatccggt gcgccccggt gttcaacctc atcaacggta aatttccctt tgcataccag
+     2641 ggcaaaacct ttccagccga tatacaccgt caggacagcg ccacgaaccg gcagcccgac
+     2701 ctgcccgtcg gcatcgttca gttcaatatc aagctggtca gcctcaaagc cccggttatc
+     2761 cgtcagggtc atgctcatca gacggtcgct gatattgccg gtaatatccc tgctgtcgag
+     2821 catcagcatg taatccggcg tcagcgtact gcctgcatca aatgtcagcg catccagcat
+     2881 tatcctgccc ccgtcatacc cgtgaatctg gtcgccatac tgccagcctt accgatgagc
+     2941 gactccgcct gtttaccgat atcgccataa agcgcggcca gtgattcatc aacgcgggtg
+     3001 agcgacagcg taaaatcaat tttccggggt gtgccgtctg caaagaaaat actccctgtt
+     3061 tcactcaccc tgctgatgac atacatgccg taaatcatgc cggtgccatc cagcaacggc
+     3121 cacgcccggc cttcctcagc catcatcctg agcgtggtca tcgtcagctt gccgccggtc
+     3181 agttcgggat aaagcacacc ggcaagcgtg atgttttcct cgccaacacc gagaaactgg
+     3241 taggcatccc gtttaccgat acgggaattt gacggccagc gataatctga ttcacgctgc
+     3301 atggtctggt gtggcagcgt ctggcgcata aaaacaaaca tacctaacgc gagcatcatt
+     3361 tttcatcacc tccttaaccg tcatgcatca tgctggcacg ggcgcgcgca cgtttatccc
+     3421 gctcgtattt ttcgagcgca tcctgtaact ggcggtcgag ctgagtcccc ggcgcagtac
+     3481 cgcccgtcag actgatgtga tattcgtttt tactctggtc cacataagag cggccagccg
+     3541 gtgccgtgac cggctgataa gcctgatagc ctgcataaga gctggtcgcc ggaatataac
+     3601 caccggtgcc atacgtggcg gcatgagtcc ttgcggcggt ctggtcaagt gtgtctgact
+     3661 ctttgttgat aacaccgagt ttttccagta cccagtcaat accgctgcgc agtttgttga
+     3721 acgcattaag cggcagcatc agcgcgtcag ccagtgcctg cccgaacatg acccccgtgt
+     3781 cacggcaacg gttcagggtg tcctgggtgg ctttgaccgg ggcaatcagg tttttaaacc
+     3841 actgccacgc ggcctgtaac ttttcgccca gccagtcaaa caccggctta agtggcgtga
+     3901 acagttcccc caccggcgca aatgccgctt tcagcccttc caccacaccg ccaaagaatg
+     3961 cgctgacagg ctcccagtat ttacggataa gcaacgcccc ggcgacaatg gcggccacca
+     4021 cagccacaac cggccagcta attgccccga tggccgtcat aacagcactg cctatcgtcg
+     4081 tgaagattgc ccccattgcg cctgctgccg cgataatggc attgatgccg gtgataaccg
+     4141 gccaggctac gaggccaatg gcaccgatga tgccagtcag cgccagcgcg ccaccgacaa
+     4201 tgaggccgat ggttgacgcc agtgatttgt ttttctggat ccagccgtcg agttttaaca
+     4261 catactttgt ggccgtctga gtgagcttac gcagtgcgcc ttcctgctgg tcaaacaggt
+     4321 ctgtccccac cgcctcataa gcggactgaa actccttaaa gtcaccgccg aggttgtcct
+     4381 gcatgatatt taccagctct gcggtcttcc cgtctgaggc tttaaacgca gcggtcagtt
+     4441 tgtccagctt tccggttgac gcggcagtca tcagcacggc ggcggctgag cttgcctcct
+     4501 ccccgaaaat ggttttcatg tattcggcct gctgggcagt accgagccgg tttttctcaa
+     4561 aactggcctg catttctttc agaatggtaa atactggtcg ggtgtttccc ttgctgtctg
+     4621 aggttttcac gccaagttct ttgagtgcat cccatgcttt tcccgttggt gcctgcaggc
+     4681 gacttaacac ggcacggctt cccgtccccg ccattgagcc tgtgattttt gcatcatgca
+     4741 gcgccccgac cattgcggcg gtttcttcaa tgctgacacc ggcatttttt gccacaggtg
+     4801 cggcataggt cagcgcatcg ctcataccgt caaaatcggc ggcggttttg ttcatcgtca
+     4861 tggagagaac gtccccgata tgagcgacct tatcgtttga aagctgaaag gcggatttca
+     4921 tccccatcag cagggcggcg ttttcctcca tcgtgcggcg gttcgccagt gccatgttca
+     4981 gcgtgaccgg cgttgccgcc tgaatggcat caacatcccc accggctttc gcaatgataa
+     5041 tctgcgcacc ggcagcatca tccgccgagg cagcggtatt gtcaccgagc tggcgcgcct
+     5101 gtttgcgtag cgcggccatt tcggcggagt cttttgccac tccgagcaca gcctgtaatt
+     5161 ctgagttttt ctgcgcaaac tcataaccgg gcatcagcaa cttaactccg gccatcgttc
+     5221 ccgccgccgc aatccccaca ccggcagcgc cgactgaagc catttttccg gccagttcct
+     5281 ttccggcctg ataacgctgt ttgactgcgt taagttttgc ctgttgcgca ctgacacgcg
+     5341 ccagcgcgtc acgctgccgg ttaagctgtg cggtggtttc actgatacgg tttttcagcc
+     5401 cctgctcatc atgtgcaaga ttgcgggtat taattcccac agcagccagt tcccgctgct
+     5461 ggcgtttaac ggaatccgtc aggcggttat atttcgcctg taagtcctcc gctgctcgct
+     5521 ttgcggattc cagcactttc gcctgagcac gggtcggacg ctcggtgttt ttaaactgtg
+     5581 tggcaagggc ttcggcctcc tgccgtgcct tttcaagtgc atgaccagtc acggcgagct
+     5641 gtgcactggt cttgcggaat ccctcaatac gggatgcatg accgttcagc tcgcgcagtg
+     5701 atttttgtgt ttcccggata tcccccgaca gcgacttgct cgctgtacgg atggatttaa
+     5761 acgggcggga tgcctggtca acagccctga gcaatacctg taattttaca ttgttactca
+     5821 ttcgtgtttc cgcttcgcct gagcgccttt tcgcgccatg tgatgagttc ggtcaggctc
+     5881 atgggataca gttctgatgg cggccagtga aataccactg ccacatccgc catcaggtca
+     5941 tcgaccgaga gatttttcgg aaacgtcact gcaccgagtt cggcgacaaa aaaccgacca
+     6001 ccttaccggc cagcgccaca aggtcaggca gttccagtgc ggcgacctcc tgctcggtca
+     6061 gcatcggtgc cgtcatgcgc ggcagcacct taatcagtgc atcgacttcg gagttcgcga
+     6121 ccgctgccag actgacaccg cgcagcgtcc cggcactggg tttcatcagc gtgacctgtt
+     6181 cgatgacctg ctcaccacgc ttgaccggat tttccagggt aatgacattt tctttgttca
+     6241 tggttttctc acttctgaat cagggttaac cggtcagcct ggctgaccgg atgaaaatca
+     6301 caggccgata tttcggcggt gttgctccag ccggtcgacg ccgttcacct tctcaatcat
+     6361 gttaatggtg tcgatttcga ccagctcctt accgtccatc gtcagccgga aataggtgca
+     6421 gaccacggag attttcgact cagtgtcttc tccctgtttc ccctcgccgg tgtcgatttc
+     6481 tttctgacgt ccacgcatga ccacctcgac ggccaccgtt tcgccggtat cgtcgcgctg
+     6541 gtaagagcca gcaaaacgaa tcggtacggc atccacaccg gttgcggcgt aaagctccca
+     6601 gataaccgaa tccgggaagc caccgagcga ccactccatt gacagcgcat cgtcatcaag
+     6661 gccgaggtct accggtgcgc tgccgttcat ccccgcaccg cgatagtttt cgagcttacg
+     6721 ggtcagtttt ggtagcgtga cggactttgc aacgccctga tagctgtagc cgttcagaaa
+     6781 gacgttcatt aacttgagtt tgcgcggcat tgccatcggt caggctcctt aattgctgtt
+     6841 aaccgaggtg accagatttg ccaggtattt atcggtaata cgctggcgca gggtcaggtt
+     6901 ttcgagagga ggcaccgggg tatagtcgta gtcgatatac agttttccgg ccttgagggt
+     6961 ttccgcatcg ttggattctt cgctgaacca gcatgtgcca tccacgatat aaccgttgtt
+     7021 tttcagttca cggaatttgg cattgatgcc gtcaatgatg tcgcgaatca gcgttgcggt
+     7081 gatgggctta tcaatagccc acatgtgcgc ctcagccatc gtgtcggcca gtacctgcgc
+     7141 ggtgcgtgtg tagctttcaa agaggaacag cgggtcatca gagcaggtac ggttacccca
+     7201 gaaacggaaa ccgtcgcggc gaaccagcgt tgtgacgcct gcctcgttca gcaggtcagc
+     7261 atcagtgcct ggcttctgca aatcccagaa gacggatgca ctgatgccgg taacaccgtt
+     7321 caccccgacg ttggacagcg ttttatgcca gccctgctcc tggtcgattt tagcgcgcag
+     7381 acccagcgca cgggcggtgg catacgcggt ggcggtggta ctggtaaccg tatcccatgc
+     7441 gaggaaatcc ggccagataa ccatcagctc acgctggctg aaattctggc ggtaggcttt
+     7501 cacctcggaa atggttttac aaccccatgc gctgatatac ccgaaggcat tcagttcctg
+     7561 gcataccgat gccagtgcga cggcgacctc tttggtgtcc agtcccggta cgccgagaat
+     7621 gcgcggttta acgccggtaa ccgactcagc ccccatcagg gctttcagtc cggtgtactg
+     7681 accgttttcg tcggtggtgc cgataatatt ggaaacggtc tgcgcgagtt tcgtttcctc
+     7741 gtcgtcgccg gtgccgtctt ccacgcgcac aacaacggtg accggttttg actggtcagc
+     7801 gatggcctgt aacgacgccg ccagcgtgcc ttttttaccg gcctttgcaa ttgcgctctg
+     7861 cacattggta atcagcaccg gtttattgag ggggaagatt tccgcatccg catcgctggc
+     7921 cgtgcagacc atgccaacaa tggcggtgga tacggtggaa atgacgcggg tgccgtcgtt
+     7981 aatctccagc acctgcacgc cgtgatgata gtcactcatc cgtttaactc cgtggttaat
+     8041 gggtgcaact attttctgtt gtgcagagca tgagacgcta tttgacctgg ctggtcagtg
+     8101 gatgaaacaa cagataaaga aaaggcgggc aattcgcccg ccagtcctga tttgtactca
+     8161 ctcattttcc gactgacaat ttacttagcc caaaagccat caaatctgac agtctgcttt
+     8221 gagcgaggag cgaaagttgg cagctgttat taatttcaca tatatcctat tgaaaaatgc
+     8281 caatcaaaag taggtcgatt caatcagcta tacattcaca ttctaaaaat ttggtaatat
+     8341 gtgaaataat gatgcactgc aaaaggaact tattaacaaa attatggggg agaaaatggt
+     8401 tggtggcgtg tggaatgaca aattggatgc gaaggcggca ggctgggtag cggatggtaa
+     8461 caagaaaagc ggtggccaag gcgtggcgtg tccagtggtt cgttctgaca tgagagcatt
+     8521 tttaaaagta ttgaaaagcc agaaagaccc tgagcgacga gctcgtatgt atcgcgaagc
+     8581 agtcgctctc tatacctatg aacatccggg aattccatct cttatagaaa gtaattgcca
+     8641 tcgttatgaa caaatgaatt acaaacttta cttagttaca gaaatagttg aaggcccaac
+     8701 attacgtgag tacatagagg aaaatggggc tatgtcattt caagatgcgg ttgatatgat
+     8761 agatcgcctg ttggatatag tcgaatacta tcattctcgt gatggcattc acagagatat
+     8821 caaacctgat aatattatac tccggtgtaa taacccggct gatgctgtat tggtagattt
+     8881 cggtctcgca tggcaacctc aagatgagaa cgctcatgct actgataatg gccaagagct
+     8941 aggcaatcgt ttcttaaggc tcaatgaact tgcgccagac agtcctaata aacgagatcc
+     9001 tcgaagcgat attacctttg tagtagggat tttattttac gtattaacag gaaaaagccc
+     9061 gtatgtttta gaagaatctg agactgggcg tcgacctcac caacgcgatg gagtatcgga
+     9121 aagtattcat gccgctacta atggttgggc actttcaatg cttgcattgt ttgaccgtgg
+     9181 tttttcaccg ctattgaata gtagatttca gacggtacaa gagttgagaa aggagttgaa
+     9241 gaggatgagc gaaaataaat ctacattggc ggatggtgag attcttttag aaatcaaaaa
+     9301 aaggttggaa gctcaaggtg ctgagataaa tagtgtttac atgagtaaaa tcagggaagc
+     9361 tgtaagcgaa ataatttcag ttcgtaataa catcatagaa gagatcggag gtcatctgtc
+     9421 tggagttgaa actggatact ataaatctga gccccgtcat tcttggttaa acataggatt
+     9481 tgatacccct ggtacttcgt atcctcgttt ccgacctaca tttgactttc aaattattgc
+     9541 tgatgaactc atcattactg tcttttcaga agatcggcag ggtgttgcta aaactatctg
+     9601 gcgcacggat gtttcaaact ctgactttgg tgatattttc cgccgtaaga tcagagaaat
+     9661 atttgtcact gggttgagcg aaatttttag ttaatagctt gtgcccatta acattaattt
+     9721 ttattaatgc tttagttaaa tatgatgctc agcaccttat taattaacac atagtgaagt
+     9781 ttatagggac agctcttggc acagggctgc tgttgcagcc ctaacccccc tagacttcag
+     9841 tgctatagat acgttagctc acaccagagc tcatacaact tattgcggca tttccggcca
+     9901 ttcaggattt gcaggatcca cacgactgac cagaacgctg tagcgttccc atgcttccag
+     9961 tcggctacgc tcctcatctg ttgccatgtt cagtctgacc gcgcgctcca gcggcaaaat
+    10021 cacgaattca gcatctgcaa gaagtctggc tttccggttt tctgtctgct gctgcaattc
+    10081 ctctgccgta taaatgcgtt taatcacttt gccgtcctta aacatccagt tccctgaaat
+    10141 gttcgcccgc cggttagcag taatatccgc cacttcaaca acacttaatc catccggtct
+    10201 gatagctgtc gcatcctttt ccacatagcg gatgatatta tctttgtcgt acgctatttt
+    10261 tagcgtgtca tcagcaaaat acttttgttc ttcgtaccag ttcttaccat cttctgaaaa
+    10321 aaaccagaca acaccaaagt cttttgtcaa ttgatattgt tcaaccgttt ttggattacc
+    10381 tgccgttata tttatcaaat gctgcataaa ttatacctgc gccacgttat accaagtccc
+    10441 gttaatgtat ttctgcaccg gtctgtaata tacgccacca atgttatcgg cagagtttga
+    10501 gccggtatcc tgaacaataa tgccggaata tacacacccg gacggtgcct gatgtgtcca
+    10561 tgtcatgcca ttgttcgcag gtttgtatgt ggcagcacca ccaagccgga tatcccggac
+    10621 atagcgtgaa tcaaaattac tatagttaga tggtgatacc tgcccgttaa cagcaaaagt
+    10681 gatgctgtta tctgtatttc tctgactgta aaaatgccag cctgcatcat cacctaattc
+    10741 agccaccaca ggacgacttg agtttcccca caaattgaat gcggcttcct tcgtggatgt
+    10801 attgctgctg ctgaccgtga actttttccc gctaccggca cgtactttgg tacttgagac
+    10861 aatatcacca gtaacactca ggccatgccc cattgataca gcacccgtgg catcatttat
+    10921 aatcagtggt cttaaattat tataagtacc taatctgtca cctgatttag tcaacataaa
+    10981 ataagtgctg ctgccatcat tcctgataaa gaatccataa ttgccataag caatgcgcag
+    11041 accattagca ctgcttgatg taatctcacc tcttgaacgg agaccataag cggagctgag
+    11101 tgataattct tcctgagcat cagtattacc agtcgcccag cgaactaccc cgccctgtac
+    11161 tgtttcatgc cagatagtgt ctccttctcc accacgaaac tttctgagat attttttgcc
+    11221 gcctctggtg cctgaacata aggccgtaga catataggca ttctggcttc cgccatcctg
+    11281 attaatcgtt ccggtcattg agtcgccctg acgattccag tcacgacgcc agccggggga
+    11341 gtagccgtcc ccatgattaa tgtaagtgaa ttgcgcgctg gttgtaccgc caccacttga
+    11401 tgttgtcggc gtggtcactc ggatagtgat tgcagattta gttcccatga cctcgacgac
+    11461 acaaccagcc aggtggatat caccacatcc ggtatccgta atgattttgt tatttgcata
+    11521 tgaccaggag cctttgcaca tccagtacgg atgattaaat gcaccacggg aatccagcca
+    11581 ttcaataaac tgagcggttg tccagtttcc ggcttcagtg ctcaaagcgc cgctataagc
+    11641 acgacaggca ccgatatttt tcgtgaaggt atcctttccc ggaatatccg caccgttctg
+    11701 atctttctga agacgttttt cagcattgtc ataggcagac ttcaccgctt ttggtgttgc
+    11761 agccagcgtt tcagaatca
+//
+LOCUS       109_assemble_contig_3          509 bp    dna     linear   UNK 
+DEFINITION  Escherichia phage pro147 109_pro147
+ACCESSION   109_assemble_contig_3
+KEYWORDS    .
+SOURCE      Escherichia phage pro147
+  ORGANISM  Escherichia phage pro147
+            Viruses; Duplodnaviria; Heunggongvirae; Uroviricota;
+            Caudoviricetes; Peduoviridae; Peduovirus; Peduovirus pro147.
+FEATURES             Location/Qualifiers
+     source          1..509
+                     /organism="Escherichia phage pro147 109_pro147"
+                     /note="1649239.15"
+                     /db_xref="taxon:1649239"
+                     /mol_type="genomic DNA"
+     fasta_record    1..509
+                     /label=109_assemble_contig_3
+                     /db_xref="taxon:1649239"
+                     /note="109_assemble_contig_3"
+     CDS             complement(1..567)
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.87"
+                     /transl_table=11
+                     /translation="LLARLLELPDQS*TTKYI**IWDVVRPSLWLQLQRFLTGSHSSK
+                     VSCRLHQLIH*ILYGLTFQIHGLTSTSPKRLLT*LLRLRNFLLMV*NVVLLELSF*AI
+                     ISH*EPLEALRENRSR*IDSL*A*LMPCLIRSLQNSLVKLQEL*GA*LRKGNYQLLRL
+                     LTLSQYRGV"
+     CDS             complement(1..156)
+                     /product="repressor of Pc; required for prophage
+                     excision; inhibits integration; activates P11 promoter of
+                     satellite phage P4"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.88"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_si
+                     milarity"
+                     /translation="MNRQLVSVTDAVPYQEFAKLIGKTPRAVRGMIEKGKLPVIEITD
+                     PQSVSGRA"
+     CDS             2..196
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.89"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation="ARPDTD*GSVISITGNFPFSIMPLTALGVLPMSFANS**GTASV
+                     TLTSCLFICYDSPLVLLMAPN"
+     CDS             196..1209
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.90"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation="WLIIA*KDNSRSTTFHTISKKLRNRSNYVNRRFGEVEVNP*I*K
+                     VKP*RIQ*INWCSLQLTFEL*EPVKKRWS*SHNEGLTTSQIY*IYFVVHD*SGSSRSR
+                     AR"
+     CDS             278..508
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.91"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /product="Phage immunity repressor protein GpC"
+                     /translation="MSIDVSEKLKLIRESERLNRKEFSELTGVAYSSLSSYESRSKNA
+                     GVEAIMKVLQHPRFTKYTLWFMTDQVAPEAGQE"
+     CDS             complement(578..1108)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.92"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             complement(1101..2009)
+                     /db_xref="RAST2:fig|1649239.15.peg.93"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             1226..1336
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.94"
+                     /transl_table=11
+                     /product="hypothetical protein"
+     CDS             complement(1417..1671)
+                     /translation=""
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.95"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(1717..2880)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.96"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             complement(2014..2361)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.97"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             complement(2358..2993)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.98"
+                     /transl_table=11
+     CDS             complement(2880..3356)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.99"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             complement(3060..3512)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.100"
+     CDS             complement(3374..5821)
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.101"
+                     /transl_table=11
+                     /translation=""
+     CDS             complement(3505..3972)
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.102"
+                     /transl_table=11
+                     /translation=""
+     CDS             complement(3935..4093)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.103"
+                     /product="hypothetical protein"
+     CDS             complement(4080..4505)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.104"
+                     /product="hypothetical protein"
+     CDS             complement(4493..4918)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.105"
+                     /transl_table=11
+     CDS             complement(4933..5430)
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.106"
+                     /translation=""
+     CDS             complement(5430..5711)
+                     /translation=""
+                     /db_xref="RAST2:fig|1649239.15.peg.107"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(5715..5918)
+                     /translation=""
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.108"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(5814..5933)
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.109"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(5918..6427)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.110"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(5966..6241)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.111"
+                     /transl_table=11
+                     /product="hypothetical protein"
+     CDS             complement(6298..6816)
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.112"
+                     /transl_table=11
+                     /translation=""
+     CDS             complement(6527..7270)
+                     /translation=""
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.113"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(6829..8019)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.114"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(7274..8347)
+                     /translation=""
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.115"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             8039..8176
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.116"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             8152..8253
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.117"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             8396..9694
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.118"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(8406..9326)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.119"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             9434..11206
+                     /translation=""
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.120"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             complement(9880..10407)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.121"
+                     /product="hypothetical protein"
+     CDS             complement(10411..11778)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.122"
+                     /transl_table=11
+     CDS             11206..12225
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.123"
+                     /transl_table=11
+                     /translation=""
+     CDS             complement(12220..12309)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.124"
+                     /product="hypothetical protein"
+     CDS             complement(12329..12766)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.125"
+                     /transl_table=11
+     CDS             complement(12775..14076)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.126"
+                     /transl_table=11
+     CDS             14092..14226
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.127"
+                     /translation=""
+     CDS             14226..14444
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.128"
+                     /transl_table=11
+     CDS             14530..14775
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.129"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             14772..14885
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.130"
+                     /transl_table=11
+                     /translation=""
+     CDS             15028..15168
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.131"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(15188..17464)
+                     /translation=""
+                     /db_xref="RAST2:fig|1649239.15.peg.132"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(17454..17729)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.133"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(17726..17950)
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.134"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation=""
+     CDS             complement(17950..18252)
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.135"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation=""
+     CDS             complement(18252..18476)
+                     /db_xref="RAST2:fig|1649239.15.peg.136"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(18540..19040)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.137"
+     CDS             complement(19037..19207)
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.138"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(19218..19337)
+                     /translation=""
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.139"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+ORIGIN      
+        1 agcacgcccc gatactgact gagggtcagt aatctcaata actggtaatt tccctttctc
+       61 aatcatgccc cttacagctc ttggagtttt accaatgagt tttgcaaact cctgataagg
+      121 cacggcatca gtcacgctta caagctgtct attcatctgc tacgattctc ccttagtgct
+      181 tctaatggct cctaatggct aattattgcc taaaaggata actccagaag cacaacattt
+      241 cacaccatca gcaagaaatt acgcaatcgg agtaattatg tcaatagacg tttcggagaa
+      301 gttgaagtta atccgtgaat ctgaaaggtt aaaccgtaaa gaattcagtg aattaactgg
+      361 tgtagcctac agctcacttt cgagctatga gagccggtca aaaaacgctg gagttgaagc
+      421 cataatgaag gtcttacaac atcccagatt tactaaatat actttgtggt tcatgactga
+      481 tcaggtagct ccagaagccg ggcaagaag
+//
+LOCUS       109_assemble_contig_4          490 bp    dna     linear   UNK 
+DEFINITION  Escherichia phage pro147 109_pro147
+ACCESSION   109_assemble_contig_4
+KEYWORDS    .
+SOURCE      Escherichia phage pro147
+  ORGANISM  Escherichia phage pro147
+            Viruses; Duplodnaviria; Heunggongvirae; Uroviricota;
+            Caudoviricetes; Peduoviridae; Peduovirus; Peduovirus pro147.
+FEATURES             Location/Qualifiers
+     source          1..490
+                     /organism="Escherichia phage pro147 109_pro147"
+                     /db_xref="taxon:1649239"
+                     /mol_type="genomic DNA"
+                     /note="1649239.15"
+     fasta_record    1..490
+                     /label=109_assemble_contig_4
+                     /db_xref="taxon:1649239"
+                     /note="109_assemble_contig_4"
+     CDS             complement(1..567)
+                     /db_xref="RAST2:fig|1649239.15.peg.140"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /product="Phage immunity repressor protein GpC"
+                     /translation="CTT*S*LWIGHINYRQLSFIDHPTNRSCRFSY*FCELLIRNRIS
+                     HECYLLAHVVL*PS*IAFNVL*CLLVPTSKH*TIYI*TKYY*DLNTMSNTISEKIVLM
+                     RKSEYLSRQQLADLTGVPYGTLSYYESGRSTPPTDVMMNILQTPQFTKYTLWFMTNQI
+                     APE"
+     CDS             complement(1..156)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.141"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="NLLI*QGFRMAR*VTMKVVVQHLQQMS**TSCRPHNSPNTLYGS
+                     *PIRSLLS"
+     CDS             2..196
+                     /translation="LRSDLIGHEP*SVFGELWGLQDVHHDICWRC*TTTFIVTQRAIR
+                     NPC*ISKLLSAQIL*FSH*DY"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.142"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             24..113
+                     /translation="MNHKVYLVNCGVCRMFIMTSVGGVERPLS"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.143"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             94..246
+                     /translation="MNDHFHSNSACHTEPLLNQQVVVCSNTLIFALRLSSRLSCLTWC
+                     LDLNSI"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.144"
+                     /transl_table=11
+                     /product="hypothetical protein"
+     CDS             196..1209
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.145"
+                     /transl_table=11
+                     /translation="SSRLSCLTWCLDLNSI*FRCRLFSAWMWALKGIIRH*TQFMRAR
+                     GRHEQASNTHD*CDSLSGVRKTNRKIDRSGSSDDR*RKAACN*YDRSTISFRSC"
+     CDS             278..508
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.146"
+                     /product="Phage Cox (control of excision) protein"
+                     /translation="GH*KAL*DIKRNS*GLEDDMSKQVTLMTDAIPYQEFAKLIGKST
+                     GAVRRMIDKGKLPVIDMTDPQSASGRA"
+     CDS             335..490
+                     /translation="MSKQVTLMTDAIPYQEFAKLIGKSTGAVRRMIDKGKLPVIDMTD
+                     PQSASGRA"
+                     /product="Phage Cox (control of excision) protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=annotate_proteins_km
+                     er_v2"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.147"
+     CDS             complement(578..1108)
+                     /translation=""
+                     /db_xref="RAST2:fig|1649239.15.peg.148"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(1101..2009)
+                     /db_xref="RAST2:fig|1649239.15.peg.149"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             1226..1336
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.150"
+                     /translation=""
+     CDS             complement(1417..1671)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.151"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(1717..2880)
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.152"
+                     /translation=""
+     CDS             complement(2014..2361)
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.153"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation=""
+     CDS             complement(2358..2993)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.154"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(2880..3356)
+                     /translation=""
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.155"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(3060..3512)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.156"
+                     /transl_table=11
+                     /product="hypothetical protein"
+     CDS             complement(3374..5821)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.157"
+                     /transl_table=11
+                     /product="hypothetical protein"
+     CDS             complement(3505..3972)
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.158"
+                     /transl_table=11
+                     /translation=""
+     CDS             complement(3935..4093)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.159"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             complement(4080..4505)
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.160"
+                     /translation=""
+     CDS             complement(4493..4918)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.161"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             complement(4933..5430)
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.162"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(5430..5711)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.163"
+                     /transl_table=11
+                     /product="hypothetical protein"
+     CDS             complement(5715..5918)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.164"
+                     /transl_table=11
+     CDS             complement(5814..5933)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.165"
+                     /product="hypothetical protein"
+     CDS             complement(5918..6427)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.166"
+                     /transl_table=11
+     CDS             complement(5966..6241)
+                     /translation=""
+                     /db_xref="RAST2:fig|1649239.15.peg.167"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(6298..6816)
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.168"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(6527..7270)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.169"
+                     /transl_table=11
+                     /product="hypothetical protein"
+     CDS             complement(6829..8019)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.170"
+                     /product="hypothetical protein"
+     CDS             complement(7274..8347)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.171"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             8039..8176
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.172"
+                     /translation=""
+     CDS             8152..8253
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.173"
+                     /transl_table=11
+     CDS             8396..9694
+                     /translation=""
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.174"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             complement(8406..9326)
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.175"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation=""
+     CDS             9434..11206
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.176"
+                     /translation=""
+     CDS             complement(9880..10407)
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.177"
+                     /transl_table=11
+                     /translation=""
+     CDS             complement(10411..11778)
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.178"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation=""
+     CDS             11206..12225
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.179"
+     CDS             complement(12220..12309)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.180"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             complement(12329..12766)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.181"
+                     /transl_table=11
+                     /product="hypothetical protein"
+     CDS             complement(12775..14076)
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.182"
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             14092..14226
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.183"
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation=""
+     CDS             14226..14444
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.184"
+     CDS             14530..14775
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.185"
+                     /transl_table=11
+                     /translation=""
+     CDS             14772..14885
+                     /translation=""
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.186"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             15028..15168
+                     /translation=""
+                     /product="hypothetical protein"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.187"
+     CDS             complement(15188..17464)
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.188"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation=""
+     CDS             complement(17454..17729)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.189"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             complement(17726..17950)
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.190"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation=""
+     CDS             complement(17950..18252)
+                     /product="hypothetical protein"
+                     /db_xref="RAST2:fig|1649239.15.peg.191"
+                     /transl_table=11
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /translation=""
+     CDS             complement(18252..18476)
+                     /translation=""
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.192"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+     CDS             complement(18540..19040)
+                     /translation=""
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /db_xref="RAST2:fig|1649239.15.peg.193"
+                     /transl_table=11
+                     /product="hypothetical protein"
+     CDS             complement(19037..19207)
+                     /translation=""
+                     /product="hypothetical protein"
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.194"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+     CDS             complement(19218..19337)
+                     /translation=""
+                     /transl_table=11
+                     /db_xref="RAST2:fig|1649239.15.peg.195"
+                     /note="rasttk_feature_creation_tool=/opt/patric-common/
+                     runtime/bin/phanotate version 1.6.5"
+                     /note="rasttk_feature_annotation_tool=hatkins@bvbrc"
+                     /product="hypothetical protein"
+ORIGIN      
+        1 actcaggagc gatctgattg gtcatgaacc ataaagtgta tttggtgaat tgtggggtct
+       61 gcaggatgtt catcatgaca tctgttggag gtgttgaacg accactttca tagtaactca
+      121 gcgtgccata cggaacccct gttaaatcag caagttgttg tctgctcaaa tactctgatt
+      181 ttcgcattaa gactatcttc tcgcttatcg tgtttgacat ggtgtttaga tctcaatagt
+      241 atttagttta gatgtagatt gtttagtgct tggatgtggg cactaaaagg cattataaga
+      301 cattaaacgc aattcatgag ggctagagga cgacatgagc aagcaagtaa cactcatgac
+      361 tgatgcgatt ccttatcagg agttcgcaaa actaatagga aaatcgacag gagcggttcg
+      421 tcggatgatc gataaaggaa agctgcctgt aattgatatg accgatccac aatcagcttc
+      481 aggtcgtgca
+//
