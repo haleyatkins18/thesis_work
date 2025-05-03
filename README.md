@@ -2,14 +2,17 @@
 ## Thesis work for Bioinformatics Program at Loyola University Chicago
 
 ### Aim 1:
-* Isolation and Characterization of E. coli phages 
+* Isolation and Characterization of E. coli phages
+ 
 ** Host range 
 ** TEM imaging
 ### Aim 2: 
-* Experimental Evolution 
+* Experimental Evolution
+ 
 ** Appelmans' Protocol 
 ### Aim 3: 
-* Mutation Prediction 
+* Mutation Prediction
+ 
 ** Breseq to identify mutation accumulation 
 ** Protein analysis, Pymol
 
