@@ -17,3 +17,7 @@
 
     - Protein analysis, Pymol
 
+# Phage Mutations and Protein Translation Pipeline
+This repository contains scripts and toolsfor analyzing genome mutations and translating nucleotide sequences into amino acid sequences.
+
+#
