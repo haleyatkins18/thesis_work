@@ -3,8 +3,7 @@
 
 ### Aim 1:
 * Isolation and Characterization of E. coli phages
- 
-** Host range
+       * Host range
 
 ** TEM imaging
 ### Aim 2: 
